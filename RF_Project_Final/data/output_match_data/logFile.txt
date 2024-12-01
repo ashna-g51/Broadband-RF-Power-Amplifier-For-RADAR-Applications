@@ -1,0 +1,4882 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Tue Nov 26 20:32:19 2024
+      Running on host: "LAPTOP-HAU1OUP2"
+      In Directory: "C:\Users\ashna\finalmaybe_wrk\data"
+      Process ID: 14616
+
+
+OPTIM Optim1[1] <finalmaybe_lib:output_match:schematic>  optIter=(0->200000)
+
+SP Optim1[1].SP1[0] <finalmaybe_lib:output_match:schematic>  optIter=0  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[0] <finalmaybe_lib:output_match:schematic>  optIter=0  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[0] <finalmaybe_lib:output_match:schematic>  optIter=0  freq=7.2 GHz
+
+Iteration/Trial #0:
+  CurrentEF: 291948.928373395
+  Optimization variables:
+    R1.R = 50
+    TL1.E = 90
+    TL1.Z = 20
+    TL2.E = 147.408
+    TL2.Z = 20
+    TL3.E = 50
+    TL4.E = 110
+    TL4.Z = 30
+    TL5.E = 110
+    TL5.Z = 20
+    TL6.E = 30
+    TL6.Z = 40
+    TL7.E = 20
+    TL7.Z = 35
+
+SP Optim1[1].SP1[1] <finalmaybe_lib:output_match:schematic>  optIter=1  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[1] <finalmaybe_lib:output_match:schematic>  optIter=1  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[1] <finalmaybe_lib:output_match:schematic>  optIter=1  freq=7.2 GHz
+
+Iteration/Trial #1:
+  CurrentEF: 183.811022938884
+  Optimization variables:
+    R1.R = 56.16463212282659
+    TL1.E = 24.15416166994022
+    TL1.Z = 22.09163941160008
+    TL2.E = 179.9809707780224
+    TL2.Z = 24.3665737941256
+    TL3.E = 114.7535622691782
+    TL4.E = 165.672665280753
+    TL4.Z = 20.62606142934531
+    TL5.E = 142.117589426965
+    TL5.Z = 24.70296314473817
+    TL6.E = 20.09145164916413
+    TL6.Z = 26.97799674952169
+    TL7.E = 11.17784199761809
+    TL7.Z = 37.776092406849
+
+SP Optim1[1].SP1[2] <finalmaybe_lib:output_match:schematic>  optIter=2  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[2] <finalmaybe_lib:output_match:schematic>  optIter=2  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[2] <finalmaybe_lib:output_match:schematic>  optIter=2  freq=7.2 GHz
+
+Iteration/Trial #2:
+  CurrentEF: 33.9171409476621
+  Optimization variables:
+    R1.R = 56.16428662594817
+    TL1.E = 24.02879481723548
+    TL1.Z = 21.96236740350072
+    TL2.E = 179.9845062242359
+    TL2.Z = 24.01942029650541
+    TL3.E = 118.3828913565484
+    TL4.E = 165.3487141617916
+    TL4.Z = 20.62951466663088
+    TL5.E = 142.3884677985958
+    TL5.Z = 24.68433329863225
+    TL6.E = 20.08747567022187
+    TL6.Z = 26.98348224868374
+    TL7.E = 11.16027360228616
+    TL7.Z = 37.77688720885065
+
+SP Optim1[1].SP1[3] <finalmaybe_lib:output_match:schematic>  optIter=3  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[3] <finalmaybe_lib:output_match:schematic>  optIter=3  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[3] <finalmaybe_lib:output_match:schematic>  optIter=3  freq=7.2 GHz
+
+Iteration/Trial #3:
+  CurrentEF: 33.7443293060418
+  Optimization variables:
+    R1.R = 56.16449044591376
+    TL1.E = 24.02875266366461
+    TL1.Z = 22.01479451703631
+    TL2.E = 179.9844951823718
+    TL2.Z = 24.01941432125511
+    TL3.E = 118.5858645255426
+    TL4.E = 165.3488867351122
+    TL4.Z = 20.6294909884471
+    TL5.E = 142.3884049779019
+    TL5.Z = 24.68422707638284
+    TL6.E = 20.08747389425662
+    TL6.Z = 26.98341920620004
+    TL7.E = 11.16025287662868
+    TL7.Z = 37.77674071768622
+
+SP Optim1[1].SP1[4] <finalmaybe_lib:output_match:schematic>  optIter=4  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[4] <finalmaybe_lib:output_match:schematic>  optIter=4  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[4] <finalmaybe_lib:output_match:schematic>  optIter=4  freq=7.2 GHz
+
+Iteration/Trial #4:
+  CurrentEF: 33.2810347839289
+  Optimization variables:
+    R1.R = 56.16479636657123
+    TL1.E = 24.028689481868
+    TL1.Z = 22.08569440504375
+    TL2.E = 179.9844790408206
+    TL2.Z = 24.01941437298778
+    TL3.E = 118.3992511477106
+    TL4.E = 165.3491386121675
+    TL4.Z = 20.62945630579508
+    TL5.E = 142.388317536184
+    TL5.Z = 24.68407602519791
+    TL6.E = 20.08747146218658
+    TL6.Z = 26.98332939607639
+    TL7.E = 11.16022329067269
+    TL7.Z = 37.77655687640459
+
+SP Optim1[1].SP1[5] <finalmaybe_lib:output_match:schematic>  optIter=5  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[5] <finalmaybe_lib:output_match:schematic>  optIter=5  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[5] <finalmaybe_lib:output_match:schematic>  optIter=5  freq=7.2 GHz
+
+Iteration/Trial #5:
+  CurrentEF: 33.1468965526035
+  Optimization variables:
+    R1.R = 56.16517589584591
+    TL1.E = 24.028632776388
+    TL1.Z = 22.15386353391865
+    TL2.E = 179.9844641920636
+    TL2.Z = 24.01926921997289
+    TL3.E = 118.5670755604573
+    TL4.E = 165.3494061927123
+    TL4.Z = 20.62943464235828
+    TL5.E = 142.3882270553438
+    TL5.Z = 24.68382550224283
+    TL6.E = 20.08746499015782
+    TL6.Z = 26.98329796778171
+    TL7.E = 11.16012745888
+    TL7.Z = 37.77672309326223
+
+SP Optim1[1].SP1[6] <finalmaybe_lib:output_match:schematic>  optIter=6  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[6] <finalmaybe_lib:output_match:schematic>  optIter=6  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[6] <finalmaybe_lib:output_match:schematic>  optIter=6  freq=7.2 GHz
+
+Iteration/Trial #6:
+  CurrentEF: 32.9067743641853
+  Optimization variables:
+    R1.R = 56.16536228360543
+    TL1.E = 24.02860602169792
+    TL1.Z = 22.18194893340173
+    TL2.E = 179.9844571784758
+    TL2.Z = 24.01922277079191
+    TL3.E = 118.4205293356735
+    TL4.E = 165.3495367163052
+    TL4.Z = 20.62942159797284
+    TL5.E = 142.388183542898
+    TL5.Z = 24.68370785303285
+    TL6.E = 20.08746209678879
+    TL6.Z = 26.98327747906168
+    TL7.E = 11.16008514399468
+    TL7.Z = 37.77678737842365
+
+SP Optim1[1].SP1[7] <finalmaybe_lib:output_match:schematic>  optIter=7  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[7] <finalmaybe_lib:output_match:schematic>  optIter=7  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[7] <finalmaybe_lib:output_match:schematic>  optIter=7  freq=7.2 GHz
+
+Iteration/Trial #7:
+  CurrentEF: 32.5757290507306
+  Optimization variables:
+    R1.R = 56.16696715258443
+    TL1.E = 24.02841800215777
+    TL1.Z = 22.39583767221022
+    TL2.E = 179.9844062101731
+    TL2.Z = 24.018642000558
+    TL3.E = 118.4944925288967
+    TL4.E = 165.3504976256053
+    TL4.Z = 20.62947343553018
+    TL5.E = 142.3880103661529
+    TL5.Z = 24.68187138549951
+    TL6.E = 20.08739527890757
+    TL6.Z = 26.98404913239449
+    TL7.E = 11.15898805269737
+    TL7.Z = 37.78233515117298
+
+SP Optim1[1].SP1[8] <finalmaybe_lib:output_match:schematic>  optIter=8  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[8] <finalmaybe_lib:output_match:schematic>  optIter=8  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[8] <finalmaybe_lib:output_match:schematic>  optIter=8  freq=7.2 GHz
+
+Iteration/Trial #8:
+  CurrentEF: 32.5111969686179
+  Optimization variables:
+    R1.R = 56.16705518271227
+    TL1.E = 24.02841393398744
+    TL1.Z = 22.3981079320878
+    TL2.E = 179.9844045906599
+    TL2.Z = 24.01864199069001
+    TL3.E = 118.4375387024716
+    TL4.E = 165.3505461048903
+    TL4.Z = 20.62946693988031
+    TL5.E = 142.3879884524131
+    TL5.Z = 24.68183299879875
+    TL6.E = 20.0873946703997
+    TL6.Z = 26.98402595167001
+    TL7.E = 11.15898047055305
+    TL7.Z = 37.7822881990628
+
+SP Optim1[1].SP1[9] <finalmaybe_lib:output_match:schematic>  optIter=9  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[9] <finalmaybe_lib:output_match:schematic>  optIter=9  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[9] <finalmaybe_lib:output_match:schematic>  optIter=9  freq=7.2 GHz
+
+Iteration/Trial #9:
+  CurrentEF: 32.4911317030044
+  Optimization variables:
+    R1.R = 56.16920445601197
+    TL1.E = 24.02833667325937
+    TL1.Z = 22.45064856819388
+    TL2.E = 179.9843677274695
+    TL2.Z = 24.01868632545301
+    TL3.E = 118.4266814597465
+    TL4.E = 165.3517028640113
+    TL4.Z = 20.62930764421666
+    TL5.E = 142.3874413113732
+    TL5.Z = 24.68092832058298
+    TL6.E = 20.08738136974252
+    TL6.Z = 26.98342883748291
+    TL7.E = 11.15882078458069
+    TL7.Z = 37.78090405346443
+
+SP Optim1[1].SP1[10] <finalmaybe_lib:output_match:schematic>  optIter=10  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[10] <finalmaybe_lib:output_match:schematic>  optIter=10  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[10] <finalmaybe_lib:output_match:schematic>  optIter=10  freq=7.2 GHz
+
+Iteration/Trial #10:
+  CurrentEF: 28.05987359713
+  Optimization variables:
+    R1.R = 56.73266529921908
+    TL1.E = 24.02833586701931
+    TL1.Z = 22.45055048316864
+    TL2.E = 179.98436684837
+    TL2.Z = 24.26087317710851
+    TL3.E = 118.441955779394
+    TL4.E = 165.3517385289171
+    TL4.Z = 20.62930290617858
+    TL5.E = 143.7948166148458
+    TL5.Z = 24.92820676956713
+    TL6.E = 20.29025467879499
+    TL6.Z = 26.71620140786038
+    TL7.E = 11.2709025856673
+    TL7.Z = 37.78086525725084
+
+SP Optim1[1].SP1[11] <finalmaybe_lib:output_match:schematic>  optIter=11  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[11] <finalmaybe_lib:output_match:schematic>  optIter=11  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[11] <finalmaybe_lib:output_match:schematic>  optIter=11  freq=7.2 GHz
+
+Iteration/Trial #11:
+  CurrentEF: 16.8021447612354
+  Optimization variables:
+    R1.R = 56.73266528885546
+    TL1.E = 24.02833586711841
+    TL1.Z = 22.45055073822404
+    TL2.E = 179.9843668486044
+    TL2.Z = 24.26140712164136
+    TL3.E = 118.4419734800595
+    TL4.E = 165.3517385195724
+    TL4.Z = 20.62930290742248
+    TL5.E = 143.794816616916
+    TL5.Z = 35.71319332224139
+    TL6.E = 20.43613641951308
+    TL6.Z = 26.71620141032135
+    TL7.E = 16.1129016952164
+    TL7.Z = 37.78086526645518
+
+SP Optim1[1].SP1[12] <finalmaybe_lib:output_match:schematic>  optIter=12  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[12] <finalmaybe_lib:output_match:schematic>  optIter=12  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[12] <finalmaybe_lib:output_match:schematic>  optIter=12  freq=7.2 GHz
+
+Iteration/Trial #12:
+  CurrentEF: 16.7517136276324
+  Optimization variables:
+    R1.R = 56.73266528817289
+    TL1.E = 24.02833586875348
+    TL1.Z = 22.45054899376717
+    TL2.E = 179.9843668488619
+    TL2.Z = 24.27219362097048
+    TL3.E = 118.4419607627695
+    TL4.E = 165.351738517104
+    TL4.Z = 20.62930290791825
+    TL5.E = 143.7948166172813
+    TL5.Z = 35.67559166722191
+    TL6.E = 20.3775255699187
+    TL6.Z = 26.71620141104324
+    TL7.E = 14.10326367200136
+    TL7.Z = 37.78086527293149
+
+SP Optim1[1].SP1[13] <finalmaybe_lib:output_match:schematic>  optIter=13  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[13] <finalmaybe_lib:output_match:schematic>  optIter=13  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[13] <finalmaybe_lib:output_match:schematic>  optIter=13  freq=7.2 GHz
+
+Iteration/Trial #13:
+  CurrentEF: 16.7499181067133
+  Optimization variables:
+    R1.R = 56.73266528822456
+    TL1.E = 24.02833586895167
+    TL1.Z = 22.45054879364169
+    TL2.E = 179.9843668488892
+    TL2.Z = 24.26825658017336
+    TL3.E = 118.4419591241443
+    TL4.E = 165.3517385169276
+    TL4.Z = 20.62930290792125
+    TL5.E = 143.7948166172813
+    TL5.Z = 35.80395167259855
+    TL6.E = 20.38664348271055
+    TL6.Z = 26.71620141097762
+    TL7.E = 14.41953647636717
+    TL7.Z = 37.78086527226203
+
+SP Optim1[1].SP1[14] <finalmaybe_lib:output_match:schematic>  optIter=14  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[14] <finalmaybe_lib:output_match:schematic>  optIter=14  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[14] <finalmaybe_lib:output_match:schematic>  optIter=14  freq=7.2 GHz
+
+Iteration/Trial #14:
+  CurrentEF: 14.2728151627847
+  Optimization variables:
+    R1.R = 57.30153269480142
+    TL1.E = 24.02833586880303
+    TL1.Z = 22.45054892900572
+    TL2.E = 179.9843668488705
+    TL2.Z = 24.5165204945792
+    TL3.E = 117.2570406715644
+    TL4.E = 165.3517385170158
+    TL4.Z = 20.83759593698748
+    TL5.E = 142.3548684510495
+    TL5.Z = 36.14210746041083
+    TL6.E = 20.59064168816975
+    TL6.Z = 26.4517762556165
+    TL7.E = 14.50724299244817
+    TL7.Z = 37.78086527237461
+
+SP Optim1[1].SP1[15] <finalmaybe_lib:output_match:schematic>  optIter=15  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[15] <finalmaybe_lib:output_match:schematic>  optIter=15  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[15] <finalmaybe_lib:output_match:schematic>  optIter=15  freq=7.2 GHz
+
+Iteration/Trial #15:
+  CurrentEF: 13.7914594181127
+  Optimization variables:
+    R1.R = 57.30153269351302
+    TL1.E = 24.02833586335278
+    TL1.Z = 22.45055442846522
+    TL2.E = 179.9843668481111
+    TL2.Z = 24.66465308744547
+    TL3.E = 116.3299419671379
+    TL4.E = 165.3517385215118
+    TL4.Z = 20.83787134125446
+    TL5.E = 142.3432197452707
+    TL5.Z = 35.34026791865881
+    TL6.E = 20.50184486759242
+    TL6.Z = 26.45177625612294
+    TL7.E = 12.3518740577695
+    TL7.Z = 37.7808652769257
+
+SP Optim1[1].SP1[16] <finalmaybe_lib:output_match:schematic>  optIter=16  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[16] <finalmaybe_lib:output_match:schematic>  optIter=16  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[16] <finalmaybe_lib:output_match:schematic>  optIter=16  freq=7.2 GHz
+
+Iteration/Trial #16:
+  CurrentEF: 12.0432634720253
+  Optimization variables:
+    R1.R = 57.30153266310948
+    TL1.E = 24.02833580077405
+    TL1.Z = 22.45061076729574
+    TL2.E = 179.9843668416788
+    TL2.Z = 28.60399439710232
+    TL3.E = 111.8444392663803
+    TL4.E = 165.3517385415236
+    TL4.Z = 20.42934839687248
+    TL5.E = 157.9163466250042
+    TL5.Z = 47.02627431370896
+    TL6.E = 20.09281695864086
+    TL6.Z = 26.45177626661075
+    TL7.E = 5.00204265179482
+    TL7.Z = 37.78086535506738
+
+SP Optim1[1].SP1[17] <finalmaybe_lib:output_match:schematic>  optIter=17  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[17] <finalmaybe_lib:output_match:schematic>  optIter=17  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[17] <finalmaybe_lib:output_match:schematic>  optIter=17  freq=7.2 GHz
+
+Iteration/Trial #17:
+  CurrentEF: 11.9542591081055
+  Optimization variables:
+    R1.R = 57.30153266014953
+    TL1.E = 24.02833579928762
+    TL1.Z = 22.45061099624229
+    TL2.E = 179.9843668418658
+    TL2.Z = 28.87048498991384
+    TL3.E = 111.7974607011676
+    TL4.E = 165.3517385385263
+    TL4.Z = 20.55259916126223
+    TL5.E = 155.0217678699289
+    TL5.Z = 48.85808090372095
+    TL6.E = 20.08238685071585
+    TL6.Z = 26.45177626749472
+    TL7.E = 5.018833028539085
+    TL7.Z = 37.78086535911356
+
+SP Optim1[1].SP1[18] <finalmaybe_lib:output_match:schematic>  optIter=18  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[18] <finalmaybe_lib:output_match:schematic>  optIter=18  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[18] <finalmaybe_lib:output_match:schematic>  optIter=18  freq=7.2 GHz
+
+Iteration/Trial #18:
+  CurrentEF: 11.8684789620136
+  Optimization variables:
+    R1.R = 57.30153268278295
+    TL1.E = 24.02833597270454
+    TL1.Z = 22.45037925888065
+    TL2.E = 179.9843668880092
+    TL2.Z = 25.27322690754716
+    TL3.E = 111.7779930508314
+    TL4.E = 165.3517383066716
+    TL4.Z = 20.34283414527643
+    TL5.E = 154.3997976816428
+    TL5.Z = 55.31818843577356
+    TL6.E = 20.00872079630793
+    TL6.Z = 26.45177627111343
+    TL7.E = 5.616773452819288
+    TL7.Z = 37.78086540992453
+
+SP Optim1[1].SP1[19] <finalmaybe_lib:output_match:schematic>  optIter=19  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[19] <finalmaybe_lib:output_match:schematic>  optIter=19  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[19] <finalmaybe_lib:output_match:schematic>  optIter=19  freq=7.2 GHz
+
+Iteration/Trial #19:
+  CurrentEF: 11.8539174617717
+  Optimization variables:
+    R1.R = 57.30153268742637
+    TL1.E = 24.02833599594241
+    TL1.Z = 22.45034725455901
+    TL2.E = 179.9843668943451
+    TL2.Z = 24.84134665301793
+    TL3.E = 111.7293740979294
+    TL4.E = 165.3517382774033
+    TL4.Z = 20.42705376668011
+    TL5.E = 154.0906736082089
+    TL5.Z = 55.535050927289
+    TL6.E = 20.00480055715116
+    TL6.Z = 26.45177627150937
+    TL7.E = 5.713848534238313
+    TL7.Z = 37.78086541807923
+
+SP Optim1[1].SP1[20] <finalmaybe_lib:output_match:schematic>  optIter=20  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[20] <finalmaybe_lib:output_match:schematic>  optIter=20  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[20] <finalmaybe_lib:output_match:schematic>  optIter=20  freq=7.2 GHz
+
+Iteration/Trial #20:
+  CurrentEF: 11.8489267345939
+  Optimization variables:
+    R1.R = 57.3015327056268
+    TL1.E = 24.02833613636057
+    TL1.Z = 22.45015779795238
+    TL2.E = 179.9843669278858
+    TL2.Z = 24.72830830798019
+    TL3.E = 111.6581519567633
+    TL4.E = 165.3517380934183
+    TL4.Z = 20.46263245413413
+    TL5.E = 154.0413270938119
+    TL5.Z = 55.98949981005708
+    TL6.E = 20.00696087005759
+    TL6.Z = 26.45177627256828
+    TL7.E = 5.852325025259137
+    TL7.Z = 37.78086542622614
+
+SP Optim1[1].SP1[21] <finalmaybe_lib:output_match:schematic>  optIter=21  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[21] <finalmaybe_lib:output_match:schematic>  optIter=21  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[21] <finalmaybe_lib:output_match:schematic>  optIter=21  freq=7.2 GHz
+
+Iteration/Trial #21:
+  CurrentEF: 11.826229346671
+  Optimization variables:
+    R1.R = 57.30153284736707
+    TL1.E = 24.02833722804489
+    TL1.Z = 22.44868763736384
+    TL2.E = 179.9843671870517
+    TL2.Z = 25.34624452688754
+    TL3.E = 111.1522073704418
+    TL4.E = 165.3517366657049
+    TL4.Z = 20.55129278592803
+    TL5.E = 154.4215637578381
+    TL5.Z = 58.89134158801922
+    TL6.E = 20.02105952114071
+    TL6.Z = 26.45177627993461
+    TL7.E = 6.888608487207701
+    TL7.Z = 37.78086547822966
+
+SP Optim1[1].SP1[22] <finalmaybe_lib:output_match:schematic>  optIter=22  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[22] <finalmaybe_lib:output_match:schematic>  optIter=22  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[22] <finalmaybe_lib:output_match:schematic>  optIter=22  freq=7.2 GHz
+
+Iteration/Trial #22:
+  CurrentEF: 11.7968648376924
+  Optimization variables:
+    R1.R = 57.30153284743655
+    TL1.E = 24.02833722863947
+    TL1.Z = 22.44868686640979
+    TL2.E = 179.9843671871999
+    TL2.Z = 25.30851307875599
+    TL3.E = 110.3672459637291
+    TL4.E = 165.3517366649115
+    TL4.Z = 20.55129322704015
+    TL5.E = 154.4554959028672
+    TL5.Z = 59.02457093763351
+    TL6.E = 20.02037178619002
+    TL6.Z = 26.45177627998986
+    TL7.E = 6.888608691837561
+    TL7.Z = 37.78086547923947
+
+SP Optim1[1].SP1[23] <finalmaybe_lib:output_match:schematic>  optIter=23  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[23] <finalmaybe_lib:output_match:schematic>  optIter=23  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[23] <finalmaybe_lib:output_match:schematic>  optIter=23  freq=7.2 GHz
+
+Iteration/Trial #23:
+  CurrentEF: 11.475229127284
+  Optimization variables:
+    R1.R = 56.72651752097039
+    TL1.E = 24.26912062174562
+    TL1.Z = 22.44865914183623
+    TL2.E = 179.9843671920974
+    TL2.Z = 25.53219547861164
+    TL3.E = 109.398621629807
+    TL4.E = 165.3517366369655
+    TL4.Z = 20.55130502498959
+    TL5.E = 152.7711976905756
+    TL5.Z = 58.61741151680125
+    TL6.E = 20.02325343993066
+    TL6.Z = 26.1901149488744
+    TL7.E = 6.888608298271723
+    TL7.Z = 38.16067413382028
+
+SP Optim1[1].SP1[24] <finalmaybe_lib:output_match:schematic>  optIter=24  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[24] <finalmaybe_lib:output_match:schematic>  optIter=24  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[24] <finalmaybe_lib:output_match:schematic>  optIter=24  freq=7.2 GHz
+
+Iteration/Trial #24:
+  CurrentEF: 11.3713134192581
+  Optimization variables:
+    R1.R = 56.15724081742626
+    TL1.E = 24.26992895719621
+    TL1.Z = 22.44865888944878
+    TL2.E = 179.984367192142
+    TL2.Z = 25.28005496130572
+    TL3.E = 108.3049585648483
+    TL4.E = 165.3517366367011
+    TL4.Z = 20.55130513205217
+    TL5.E = 151.2398317803201
+    TL5.Z = 59.20314426251375
+    TL6.E = 20.22551564678681
+    TL6.Z = 25.93119821796457
+    TL7.E = 6.957994377005061
+    TL7.Z = 37.77968507196837
+
+SP Optim1[1].SP1[25] <finalmaybe_lib:output_match:schematic>  optIter=25  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[25] <finalmaybe_lib:output_match:schematic>  optIter=25  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[25] <finalmaybe_lib:output_match:schematic>  optIter=25  freq=7.2 GHz
+
+Iteration/Trial #25:
+  CurrentEF: 11.3055819901685
+  Optimization variables:
+    R1.R = 56.15693208721667
+    TL1.E = 24.37283904666597
+    TL1.Z = 22.44865887466085
+    TL2.E = 179.9843671921448
+    TL2.Z = 25.28004908727581
+    TL3.E = 108.3023725596551
+    TL4.E = 165.3517366367011
+    TL4.Z = 20.55130513833737
+    TL5.E = 151.239218590873
+    TL5.Z = 59.20323222713314
+    TL6.E = 20.22552331009344
+    TL6.Z = 25.93119821796457
+    TL7.E = 6.958051946001458
+    TL7.Z = 37.77965358510426
+
+SP Optim1[1].SP1[26] <finalmaybe_lib:output_match:schematic>  optIter=26  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[26] <finalmaybe_lib:output_match:schematic>  optIter=26  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[26] <finalmaybe_lib:output_match:schematic>  optIter=26  freq=7.2 GHz
+
+Iteration/Trial #26:
+  CurrentEF: 10.9517022711082
+  Optimization variables:
+    R1.R = 56.1394261107257
+    TL1.E = 24.72814568683203
+    TL1.Z = 22.44865868119364
+    TL2.E = 179.9843671921736
+    TL2.Z = 25.27713011764333
+    TL3.E = 103.8904058250303
+    TL4.E = 165.3517366367011
+    TL4.Z = 20.55130520563737
+    TL5.E = 150.7712847052669
+    TL5.Z = 59.19455055019723
+    TL6.E = 20.22337561356524
+    TL6.Z = 25.93119821796457
+    TL7.E = 6.934105211805672
+    TL7.Z = 37.78117539761341
+
+SP Optim1[1].SP1[27] <finalmaybe_lib:output_match:schematic>  optIter=27  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[27] <finalmaybe_lib:output_match:schematic>  optIter=27  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[27] <finalmaybe_lib:output_match:schematic>  optIter=27  freq=7.2 GHz
+
+Iteration/Trial #27:
+  CurrentEF: 10.9024063000825
+  Optimization variables:
+    R1.R = 55.90415618625582
+    TL1.E = 24.75669521246644
+    TL1.Z = 22.44865794941591
+    TL2.E = 179.9843671927187
+    TL2.Z = 25.28904803411014
+    TL3.E = 104.1257807126014
+    TL4.E = 165.3517366356431
+    TL4.Z = 20.55130628623579
+    TL5.E = 147.4238669305589
+    TL5.Z = 58.92192566287164
+    TL6.E = 20.20834364742426
+    TL6.Z = 25.93119821796457
+    TL7.E = 6.789247669314875
+    TL7.Z = 37.82063260251383
+
+SP Optim1[1].SP1[28] <finalmaybe_lib:output_match:schematic>  optIter=28  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[28] <finalmaybe_lib:output_match:schematic>  optIter=28  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[28] <finalmaybe_lib:output_match:schematic>  optIter=28  freq=7.2 GHz
+
+Iteration/Trial #28:
+  CurrentEF: 10.895400513804
+  Optimization variables:
+    R1.R = 55.89334683750195
+    TL1.E = 24.80015523044064
+    TL1.Z = 22.44865790104913
+    TL2.E = 179.984367192746
+    TL2.Z = 25.28887472186737
+    TL3.E = 103.6411955415239
+    TL4.E = 165.3517366356431
+    TL4.Z = 20.55130633837293
+    TL5.E = 147.197387245307
+    TL5.Z = 58.90274958338023
+    TL6.E = 20.20740627152334
+    TL6.Z = 25.93119821796457
+    TL7.E = 6.779849482856957
+    TL7.Z = 37.82239231462344
+
+SP Optim1[1].SP1[29] <finalmaybe_lib:output_match:schematic>  optIter=29  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[29] <finalmaybe_lib:output_match:schematic>  optIter=29  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[29] <finalmaybe_lib:output_match:schematic>  optIter=29  freq=7.2 GHz
+
+Iteration/Trial #29:
+  CurrentEF: 10.8724033294179
+  Optimization variables:
+    R1.R = 55.33218528008958
+    TL1.E = 24.79772321509625
+    TL1.Z = 22.44865790063348
+    TL2.E = 179.984367192746
+    TL2.Z = 25.03950305022342
+    TL3.E = 103.6390408865548
+    TL4.E = 165.3517366356431
+    TL4.Z = 20.55130633941744
+    TL5.E = 145.7188625172633
+    TL5.Z = 58.31273962667582
+    TL6.E = 20.20739072557292
+    TL6.Z = 25.67500802365343
+    TL7.E = 6.71273374370621
+    TL7.Z = 38.20270926183625
+
+SP Optim1[1].SP1[30] <finalmaybe_lib:output_match:schematic>  optIter=30  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[30] <finalmaybe_lib:output_match:schematic>  optIter=30  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[30] <finalmaybe_lib:output_match:schematic>  optIter=30  freq=7.2 GHz
+
+Iteration/Trial #30:
+  CurrentEF: 10.8512868820927
+  Optimization variables:
+    R1.R = 55.26145857015971
+    TL1.E = 24.80589544859214
+    TL1.Z = 22.44865768768561
+    TL2.E = 179.9843671929431
+    TL2.Z = 25.03903459002928
+    TL3.E = 103.7267953599829
+    TL4.E = 165.3517366352905
+    TL4.Z = 20.5513067079216
+    TL5.E = 144.336806466691
+    TL5.Z = 58.16515010751375
+    TL6.E = 20.20309738881377
+    TL6.Z = 25.67500802365343
+    TL7.E = 6.691823262974843
+    TL7.Z = 38.23210882971544
+
+SP Optim1[1].SP1[31] <finalmaybe_lib:output_match:schematic>  optIter=31  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[31] <finalmaybe_lib:output_match:schematic>  optIter=31  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[31] <finalmaybe_lib:output_match:schematic>  optIter=31  freq=7.2 GHz
+
+Iteration/Trial #31:
+  CurrentEF: 10.8477170086033
+  Optimization variables:
+    R1.R = 55.26139225910247
+    TL1.E = 24.82204980040765
+    TL1.Z = 22.44865768548507
+    TL2.E = 179.9843671929431
+    TL2.Z = 25.03899272404505
+    TL3.E = 103.7330080918389
+    TL4.E = 165.3517366352905
+    TL4.Z = 20.55130670924194
+    TL5.E = 144.3359886279455
+    TL5.Z = 58.16510918929972
+    TL6.E = 20.20309849821444
+    TL6.Z = 25.67500802365343
+    TL7.E = 6.691862476277315
+    TL7.Z = 38.23212828828249
+
+SP Optim1[1].SP1[32] <finalmaybe_lib:output_match:schematic>  optIter=32  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[32] <finalmaybe_lib:output_match:schematic>  optIter=32  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[32] <finalmaybe_lib:output_match:schematic>  optIter=32  freq=7.2 GHz
+
+Iteration/Trial #32:
+  CurrentEF: 10.8432060811499
+  Optimization variables:
+    R1.R = 55.25628602229133
+    TL1.E = 24.78358201782905
+    TL1.Z = 22.44865766664825
+    TL2.E = 179.9843671929733
+    TL2.Z = 25.04637078886763
+    TL3.E = 104.1913348700556
+    TL4.E = 165.3517366352024
+    TL4.Z = 20.55130678129614
+    TL5.E = 144.1361927033681
+    TL5.Z = 58.16649149138588
+    TL6.E = 20.20196747960467
+    TL6.Z = 25.67500802365343
+    TL7.E = 6.671058824342833
+    TL7.Z = 38.22329326097601
+
+SP Optim1[1].SP1[33] <finalmaybe_lib:output_match:schematic>  optIter=33  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[33] <finalmaybe_lib:output_match:schematic>  optIter=33  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[33] <finalmaybe_lib:output_match:schematic>  optIter=33  freq=7.2 GHz
+
+Iteration/Trial #33:
+  CurrentEF: 10.8369944764026
+  Optimization variables:
+    R1.R = 55.24379327214066
+    TL1.E = 24.78677577471043
+    TL1.Z = 22.44865762460722
+    TL2.E = 179.9843671930194
+    TL2.Z = 25.04756560126027
+    TL3.E = 104.2514537478759
+    TL4.E = 165.3517366351142
+    TL4.Z = 20.55130688582939
+    TL5.E = 143.7772222622607
+    TL5.Z = 58.15903546982084
+    TL6.E = 20.19930903185902
+    TL6.Z = 25.67500802365343
+    TL7.E = 6.622599753405947
+    TL7.Z = 38.20449427601995
+
+SP Optim1[1].SP1[34] <finalmaybe_lib:output_match:schematic>  optIter=34  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[34] <finalmaybe_lib:output_match:schematic>  optIter=34  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[34] <finalmaybe_lib:output_match:schematic>  optIter=34  freq=7.2 GHz
+
+Iteration/Trial #34:
+  CurrentEF: 10.8337688761053
+  Optimization variables:
+    R1.R = 55.82546717073577
+    TL1.E = 24.79189824293361
+    TL1.Z = 22.44865742881056
+    TL2.E = 179.9843671931315
+    TL2.Z = 24.84533976770064
+    TL3.E = 104.2300932746784
+    TL4.E = 165.3517366346734
+    TL4.Z = 20.55130717864582
+    TL5.E = 143.6160220324955
+    TL5.Z = 58.28216896130357
+    TL6.E = 20.06679519700656
+    TL6.Z = 25.4215275971578
+    TL7.E = 6.575654721641477
+    TL7.Z = 38.56835359855616
+
+SP Optim1[1].SP1[35] <finalmaybe_lib:output_match:schematic>  optIter=35  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[35] <finalmaybe_lib:output_match:schematic>  optIter=35  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[35] <finalmaybe_lib:output_match:schematic>  optIter=35  freq=7.2 GHz
+
+Iteration/Trial #35:
+  CurrentEF: 10.8322959192781
+  Optimization variables:
+    R1.R = 55.26508053663338
+    TL1.E = 24.80942612240509
+    TL1.Z = 22.44865742612406
+    TL2.E = 179.9843671931315
+    TL2.Z = 24.60073716025858
+    TL3.E = 104.2315871225734
+    TL4.E = 165.3517366346734
+    TL4.Z = 20.55130718020493
+    TL5.E = 143.6135664438341
+    TL5.Z = 58.28190810321553
+    TL6.E = 20.06679284895078
+    TL6.Z = 25.4215275971578
+    TL7.E = 6.641862953690865
+    TL7.Z = 38.56837931727682
+
+SP Optim1[1].SP1[36] <finalmaybe_lib:output_match:schematic>  optIter=36  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[36] <finalmaybe_lib:output_match:schematic>  optIter=36  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[36] <finalmaybe_lib:output_match:schematic>  optIter=36  freq=7.2 GHz
+
+Iteration/Trial #36:
+  CurrentEF: 10.8311747981362
+  Optimization variables:
+    R1.R = 55.81839499450457
+    TL1.E = 24.81156558237743
+    TL1.Z = 22.4486574188987
+    TL2.E = 179.9843671931372
+    TL2.Z = 24.3587712183169
+    TL3.E = 104.1971683898177
+    TL4.E = 165.3517366346734
+    TL4.Z = 20.55130719224421
+    TL5.E = 143.5632352802637
+    TL5.Z = 58.27805341289556
+    TL6.E = 20.00000606822015
+    TL6.Z = 25.4215275971578
+    TL7.E = 6.575491689628965
+    TL7.Z = 38.56879971291755
+
+SP Optim1[1].SP1[37] <finalmaybe_lib:output_match:schematic>  optIter=37  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[37] <finalmaybe_lib:output_match:schematic>  optIter=37  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[37] <finalmaybe_lib:output_match:schematic>  optIter=37  freq=7.2 GHz
+
+Iteration/Trial #37:
+  CurrentEF: 10.8298935543606
+  Optimization variables:
+    R1.R = 55.84136017487202
+    TL1.E = 24.80201665975615
+    TL1.Z = 22.44865729207686
+    TL2.E = 179.9843671932452
+    TL2.Z = 24.11914317838102
+    TL3.E = 104.3334812628742
+    TL4.E = 165.3517366342327
+    TL4.Z = 20.5513074682829
+    TL5.E = 143.3843046116727
+    TL5.Z = 58.37542018280676
+    TL6.E = 20.00000391491492
+    TL6.Z = 25.4215275971578
+    TL7.E = 6.666228520861157
+    TL7.Z = 38.55551309152823
+
+SP Optim1[1].SP1[38] <finalmaybe_lib:output_match:schematic>  optIter=38  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[38] <finalmaybe_lib:output_match:schematic>  optIter=38  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[38] <finalmaybe_lib:output_match:schematic>  optIter=38  freq=7.2 GHz
+
+Iteration/Trial #38:
+  CurrentEF: 10.8200546159254
+  Optimization variables:
+    R1.R = 56.14663953282175
+    TL1.E = 24.80015245882065
+    TL1.Z = 22.44865586502652
+    TL2.E = 179.9843671943829
+    TL2.Z = 24.11571872083758
+    TL3.E = 104.4942483363941
+    TL4.E = 165.3517366296484
+    TL4.Z = 20.55131048866748
+    TL5.E = 142.103996816941
+    TL5.Z = 59.60358492414324
+    TL6.E = 20.00017718008208
+    TL6.Z = 25.4215275971578
+    TL7.E = 6.991962679249699
+    TL7.Z = 38.38911286933412
+
+SP Optim1[1].SP1[39] <finalmaybe_lib:output_match:schematic>  optIter=39  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[39] <finalmaybe_lib:output_match:schematic>  optIter=39  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[39] <finalmaybe_lib:output_match:schematic>  optIter=39  freq=7.2 GHz
+
+Iteration/Trial #39:
+  CurrentEF: 10.8077466730591
+  Optimization variables:
+    R1.R = 56.54084476667277
+    TL1.E = 24.82077652657354
+    TL1.Z = 22.44865301709648
+    TL2.E = 179.984367196956
+    TL2.Z = 24.10746940947482
+    TL3.E = 104.3653159382362
+    TL4.E = 165.3517366209208
+    TL4.Z = 20.55131648963546
+    TL5.E = 140.4564434953398
+    TL5.Z = 61.26386107481822
+    TL6.E = 20.00602892763695
+    TL6.Z = 25.4215275971578
+    TL7.E = 7.818793245334632
+    TL7.Z = 38.06501627986333
+
+SP Optim1[1].SP1[40] <finalmaybe_lib:output_match:schematic>  optIter=40  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[40] <finalmaybe_lib:output_match:schematic>  optIter=40  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[40] <finalmaybe_lib:output_match:schematic>  optIter=40  freq=7.2 GHz
+
+Iteration/Trial #40:
+  CurrentEF: 10.7548009995785
+  Optimization variables:
+    R1.R = 57.26551822470115
+    TL1.E = 24.85981298922184
+    TL1.Z = 22.44864117770018
+    TL2.E = 179.9843672083059
+    TL2.Z = 24.07155192304043
+    TL3.E = 104.1748224380189
+    TL4.E = 165.3517365849525
+    TL4.Z = 20.55134236730823
+    TL5.E = 134.7543044058134
+    TL5.Z = 64.16533335852442
+    TL6.E = 20.10271222719574
+    TL6.Z = 25.42152759743009
+    TL7.E = 15.4410026721506
+    TL7.Z = 36.50556149168153
+
+SP Optim1[1].SP1[41] <finalmaybe_lib:output_match:schematic>  optIter=41  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[41] <finalmaybe_lib:output_match:schematic>  optIter=41  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[41] <finalmaybe_lib:output_match:schematic>  optIter=41  freq=7.2 GHz
+
+Iteration/Trial #41:
+  CurrentEF: 10.740703942625
+  Optimization variables:
+    R1.R = 58.31984386329069
+    TL1.E = 24.86058565827992
+    TL1.Z = 22.44863496515143
+    TL2.E = 179.9843672155982
+    TL2.Z = 24.14623365220045
+    TL3.E = 104.3787582019542
+    TL4.E = 165.3517365611499
+    TL4.Z = 20.5513595156385
+    TL5.E = 132.0362573471955
+    TL5.Z = 65.24549495120438
+    TL6.E = 20.18714210598118
+    TL6.Z = 25.42152759756623
+    TL7.E = 19.59469012090722
+    TL7.Z = 35.32961490593384
+
+SP Optim1[1].SP1[42] <finalmaybe_lib:output_match:schematic>  optIter=42  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[42] <finalmaybe_lib:output_match:schematic>  optIter=42  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[42] <finalmaybe_lib:output_match:schematic>  optIter=42  freq=7.2 GHz
+
+Iteration/Trial #42:
+  CurrentEF: 10.6947822531287
+  Optimization variables:
+    R1.R = 63.47138620247984
+    TL1.E = 24.83958776956477
+    TL1.Z = 22.44860942420637
+    TL2.E = 179.9843672524495
+    TL2.Z = 24.07261387975716
+    TL3.E = 105.2333293482645
+    TL4.E = 165.3517364409029
+    TL4.Z = 20.5514445701265
+    TL5.E = 126.6079779115967
+    TL5.Z = 67.83045306628064
+    TL6.E = 20.81539675800292
+    TL6.Z = 25.42152759851923
+    TL7.E = 24.19430756084869
+    TL7.Z = 31.37418953083968
+
+SP Optim1[1].SP1[43] <finalmaybe_lib:output_match:schematic>  optIter=43  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[43] <finalmaybe_lib:output_match:schematic>  optIter=43  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[43] <finalmaybe_lib:output_match:schematic>  optIter=43  freq=7.2 GHz
+
+Iteration/Trial #43:
+  CurrentEF: 10.655052330145
+  Optimization variables:
+    R1.R = 68.23306137139389
+    TL1.E = 24.82114758167985
+    TL1.Z = 22.44858532096737
+    TL2.E = 179.9843672872641
+    TL2.Z = 24.23278525411974
+    TL3.E = 105.9872529249996
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152482332405
+    TL5.E = 122.4663294781691
+    TL5.Z = 69.82211577977758
+    TL6.E = 21.80661136132602
+    TL6.Z = 25.42152759933609
+    TL7.E = 26.16296855549784
+    TL7.Z = 27.98665106537763
+
+SP Optim1[1].SP1[44] <finalmaybe_lib:output_match:schematic>  optIter=44  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[44] <finalmaybe_lib:output_match:schematic>  optIter=44  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[44] <finalmaybe_lib:output_match:schematic>  optIter=44  freq=7.2 GHz
+
+Iteration/Trial #44:
+  CurrentEF: 10.6521261017
+  Optimization variables:
+    R1.R = 68.23305188102471
+    TL1.E = 24.80289475460003
+    TL1.Z = 22.44858532328553
+    TL2.E = 179.9843672872641
+    TL2.Z = 24.23278407532939
+    TL3.E = 105.9784266709181
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152482246836
+    TL5.E = 122.4565750944605
+    TL5.Z = 69.82205752625593
+    TL6.E = 21.80661136266114
+    TL6.Z = 25.42152759933609
+    TL7.E = 26.1580258649128
+    TL7.Z = 27.98676689962504
+
+SP Optim1[1].SP1[45] <finalmaybe_lib:output_match:schematic>  optIter=45  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[45] <finalmaybe_lib:output_match:schematic>  optIter=45  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[45] <finalmaybe_lib:output_match:schematic>  optIter=45  freq=7.2 GHz
+
+Iteration/Trial #45:
+  CurrentEF: 10.4084936545611
+  Optimization variables:
+    R1.R = 68.22839210314046
+    TL1.E = 24.94553127057715
+    TL1.Z = 22.44858526376528
+    TL2.E = 179.9843672873158
+    TL2.Z = 24.23111888273245
+    TL3.E = 104.6287087866241
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152490186258
+    TL5.E = 119.9929921022468
+    TL5.Z = 69.80723462638232
+    TL6.E = 21.80661172551841
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.84140593306266
+    TL7.Z = 28.00586154212447
+
+SP Optim1[1].SP1[46] <finalmaybe_lib:output_match:schematic>  optIter=46  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[46] <finalmaybe_lib:output_match:schematic>  optIter=46  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[46] <finalmaybe_lib:output_match:schematic>  optIter=46  freq=7.2 GHz
+
+Iteration/Trial #46:
+  CurrentEF: 10.3790337621923
+  Optimization variables:
+    R1.R = 68.22782535492104
+    TL1.E = 24.96145956893554
+    TL1.Z = 22.44858525722846
+    TL2.E = 179.9843672873216
+    TL2.Z = 24.23085660877409
+    TL3.E = 104.4832781670171
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152491193239
+    TL5.E = 119.6836676148615
+    TL5.Z = 69.80563942296241
+    TL6.E = 21.80661177074963
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.68038189880306
+    TL7.Z = 28.00822726780404
+
+SP Optim1[1].SP1[47] <finalmaybe_lib:output_match:schematic>  optIter=47  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[47] <finalmaybe_lib:output_match:schematic>  optIter=47  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[47] <finalmaybe_lib:output_match:schematic>  optIter=47  freq=7.2 GHz
+
+Iteration/Trial #47:
+  CurrentEF: 10.3669241543788
+  Optimization variables:
+    R1.R = 68.22719449481698
+    TL1.E = 24.97058437764431
+    TL1.Z = 22.4485852381844
+    TL2.E = 179.9843672873288
+    TL2.Z = 24.23911209309162
+    TL3.E = 104.4210947138914
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152491554161
+    TL5.E = 119.4533291889435
+    TL5.Z = 69.79038848417798
+    TL6.E = 21.80661174426414
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.73953550058795
+    TL7.Z = 28.03225753645151
+
+SP Optim1[1].SP1[48] <finalmaybe_lib:output_match:schematic>  optIter=48  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[48] <finalmaybe_lib:output_match:schematic>  optIter=48  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[48] <finalmaybe_lib:output_match:schematic>  optIter=48  freq=7.2 GHz
+
+Iteration/Trial #48:
+  CurrentEF: 10.3609253549689
+  Optimization variables:
+    R1.R = 68.227162216059
+    TL1.E = 24.99720301056059
+    TL1.Z = 22.44858523494004
+    TL2.E = 179.9843672873303
+    TL2.Z = 24.23922299203466
+    TL3.E = 104.453208852961
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152491818368
+    TL5.E = 119.4294277548534
+    TL5.Z = 69.79051276299415
+    TL6.E = 21.80661174708966
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.72989253787669
+    TL7.Z = 28.0325887172579
+
+SP Optim1[1].SP1[49] <finalmaybe_lib:output_match:schematic>  optIter=49  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[49] <finalmaybe_lib:output_match:schematic>  optIter=49  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[49] <finalmaybe_lib:output_match:schematic>  optIter=49  freq=7.2 GHz
+
+Iteration/Trial #49:
+  CurrentEF: 10.356537386079
+  Optimization variables:
+    R1.R = 68.22714287478968
+    TL1.E = 24.99545194932088
+    TL1.Z = 22.44858523551629
+    TL2.E = 179.9843672873303
+    TL2.Z = 24.23935002482059
+    TL3.E = 104.4797588649157
+    TL4.E = 165.3517363274439
+    TL4.Z = 20.55152491895637
+    TL5.E = 119.4038285411689
+    TL5.Z = 69.79051703550873
+    TL6.E = 21.80661174992658
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.72019360923476
+    TL7.Z = 28.03299654509127
+
+SP Optim1[1].SP1[50] <finalmaybe_lib:output_match:schematic>  optIter=50  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[50] <finalmaybe_lib:output_match:schematic>  optIter=50  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[50] <finalmaybe_lib:output_match:schematic>  optIter=50  freq=7.2 GHz
+
+Iteration/Trial #50:
+  CurrentEF: 10.2696339206685
+  Optimization variables:
+    R1.R = 68.23624930440089
+    TL1.E = 24.80499349595215
+    TL1.Z = 22.44858531363322
+    TL2.E = 179.9843672873662
+    TL2.Z = 24.24136590136062
+    TL3.E = 106.8165190569282
+    TL4.E = 165.3517363272677
+    TL4.Z = 20.55152500836175
+    TL5.E = 118.8520447301046
+    TL5.Z = 69.8027937933973
+    TL6.E = 21.80661189891197
+    TL6.Z = 25.42152759933609
+    TL7.E = 24.98879960636258
+    TL7.Z = 28.02300620954677
+
+SP Optim1[1].SP1[51] <finalmaybe_lib:output_match:schematic>  optIter=51  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[51] <finalmaybe_lib:output_match:schematic>  optIter=51  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[51] <finalmaybe_lib:output_match:schematic>  optIter=51  freq=7.2 GHz
+
+Iteration/Trial #51:
+  CurrentEF: 10.1344505909852
+  Optimization variables:
+    R1.R = 68.33954693932701
+    TL1.E = 24.86143751664088
+    TL1.Z = 22.4485854985192
+    TL2.E = 179.9843672875417
+    TL2.Z = 24.16690963086964
+    TL3.E = 107.4062311013416
+    TL4.E = 165.3517363268269
+    TL4.Z = 20.55152547144288
+    TL5.E = 114.404486141298
+    TL5.Z = 69.99520054490803
+    TL6.E = 21.80661341414075
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.30398538076023
+    TL7.Z = 27.82724143613923
+
+SP Optim1[1].SP1[52] <finalmaybe_lib:output_match:schematic>  optIter=52  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[52] <finalmaybe_lib:output_match:schematic>  optIter=52  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[52] <finalmaybe_lib:output_match:schematic>  optIter=52  freq=7.2 GHz
+
+Iteration/Trial #52:
+  CurrentEF: 10.0484881920505
+  Optimization variables:
+    R1.R = 68.68794435636111
+    TL1.E = 24.82391809252935
+    TL1.Z = 22.44858614962693
+    TL2.E = 179.9843672879415
+    TL2.Z = 23.92406781244431
+    TL3.E = 107.7997578944577
+    TL4.E = 165.3517363251519
+    TL4.Z = 20.55152750081066
+    TL5.E = 112.6502075954405
+    TL5.Z = 71.72765415748229
+    TL6.E = 21.80662083729394
+    TL6.Z = 25.42152759933609
+    TL7.E = 29.16919968141446
+    TL7.Z = 26.39040923531644
+
+SP Optim1[1].SP1[53] <finalmaybe_lib:output_match:schematic>  optIter=53  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[53] <finalmaybe_lib:output_match:schematic>  optIter=53  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[53] <finalmaybe_lib:output_match:schematic>  optIter=53  freq=7.2 GHz
+
+Iteration/Trial #53:
+  CurrentEF: 10.0316444254382
+  Optimization variables:
+    R1.R = 68.6200854668171
+    TL1.E = 24.76734989755863
+    TL1.Z = 22.44858848873293
+    TL2.E = 179.9843672886621
+    TL2.Z = 22.89945057033341
+    TL3.E = 108.2707726255231
+    TL4.E = 165.3517363203032
+    TL4.Z = 20.55152950088365
+    TL5.E = 112.0606948500146
+    TL5.Z = 72.9336636687061
+    TL6.E = 21.80662400185979
+    TL6.Z = 25.42152759933609
+    TL7.E = 29.48225060101979
+    TL7.Z = 26.45802103485979
+
+SP Optim1[1].SP1[54] <finalmaybe_lib:output_match:schematic>  optIter=54  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[54] <finalmaybe_lib:output_match:schematic>  optIter=54  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[54] <finalmaybe_lib:output_match:schematic>  optIter=54  freq=7.2 GHz
+
+Iteration/Trial #54:
+  CurrentEF: 10.0231858113528
+  Optimization variables:
+    R1.R = 68.01350647087536
+    TL1.E = 24.71948170192653
+    TL1.Z = 22.44858998671774
+    TL2.E = 179.984367290368
+    TL2.Z = 22.64241312021831
+    TL3.E = 108.5301809247336
+    TL4.E = 165.3517363142203
+    TL4.Z = 20.55153442427742
+    TL5.E = 112.257066291886
+    TL5.Z = 74.2653392200408
+    TL6.E = 21.80661989549509
+    TL6.Z = 25.42152759933609
+    TL7.E = 29.48166615723826
+    TL7.Z = 27.23393951889516
+
+SP Optim1[1].SP1[55] <finalmaybe_lib:output_match:schematic>  optIter=55  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[55] <finalmaybe_lib:output_match:schematic>  optIter=55  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[55] <finalmaybe_lib:output_match:schematic>  optIter=55  freq=7.2 GHz
+
+Iteration/Trial #55:
+  CurrentEF: 10.0181160083059
+  Optimization variables:
+    R1.R = 67.62834945532768
+    TL1.E = 24.65890288634265
+    TL1.Z = 22.44859415194536
+    TL2.E = 179.9843672922119
+    TL2.Z = 21.99913599329382
+    TL3.E = 109.2082120987946
+    TL4.E = 165.3517362998506
+    TL4.Z = 20.55153972589856
+    TL5.E = 112.4805868248219
+    TL5.Z = 74.18780571298633
+    TL6.E = 21.80662790834831
+    TL6.Z = 25.42152759933609
+    TL7.E = 29.1471782704185
+    TL7.Z = 27.1149955871859
+
+SP Optim1[1].SP1[56] <finalmaybe_lib:output_match:schematic>  optIter=56  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[56] <finalmaybe_lib:output_match:schematic>  optIter=56  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[56] <finalmaybe_lib:output_match:schematic>  optIter=56  freq=7.2 GHz
+
+Iteration/Trial #56:
+  CurrentEF: 10.0158582555281
+  Optimization variables:
+    R1.R = 67.40683009746586
+    TL1.E = 24.63971444109652
+    TL1.Z = 22.44859623609606
+    TL2.E = 179.9843672925902
+    TL2.Z = 21.79828444430671
+    TL3.E = 109.5235436559664
+    TL4.E = 165.3517362935033
+    TL4.Z = 20.55154142414094
+    TL5.E = 112.7338107015452
+    TL5.Z = 73.42978969855754
+    TL6.E = 21.80663663121251
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.87483516503873
+    TL7.Z = 26.95351372558479
+
+SP Optim1[1].SP1[57] <finalmaybe_lib:output_match:schematic>  optIter=57  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[57] <finalmaybe_lib:output_match:schematic>  optIter=57  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[57] <finalmaybe_lib:output_match:schematic>  optIter=57  freq=7.2 GHz
+
+Iteration/Trial #57:
+  CurrentEF: 10.0147509482647
+  Optimization variables:
+    R1.R = 66.4543220341119
+    TL1.E = 24.632297189071
+    TL1.Z = 22.4485972246502
+    TL2.E = 179.9843672929541
+    TL2.Z = 21.84328562024806
+    TL3.E = 109.6363579335864
+    TL4.E = 165.351736292269
+    TL4.Z = 20.55154169568619
+    TL5.E = 112.879790788876
+    TL5.Z = 72.7699596346648
+    TL6.E = 21.8066433547717
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.69058004243544
+    TL7.Z = 27.01224695965819
+
+SP Optim1[1].SP1[58] <finalmaybe_lib:output_match:schematic>  optIter=58  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[58] <finalmaybe_lib:output_match:schematic>  optIter=58  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[58] <finalmaybe_lib:output_match:schematic>  optIter=58  freq=7.2 GHz
+
+Iteration/Trial #58:
+  CurrentEF: 10.0138099831575
+  Optimization variables:
+    R1.R = 65.56512083418042
+    TL1.E = 24.62856027226332
+    TL1.Z = 22.44859772574965
+    TL2.E = 179.9843672932561
+    TL2.Z = 21.94346161920392
+    TL3.E = 109.6820969605431
+    TL4.E = 165.3517362921809
+    TL4.Z = 20.55154172007795
+    TL5.E = 112.9846372876415
+    TL5.Z = 72.31109759824609
+    TL6.E = 21.806647791432
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.56601791518951
+    TL7.Z = 27.14288395426394
+
+SP Optim1[1].SP1[59] <finalmaybe_lib:output_match:schematic>  optIter=59  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[59] <finalmaybe_lib:output_match:schematic>  optIter=59  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[59] <finalmaybe_lib:output_match:schematic>  optIter=59  freq=7.2 GHz
+
+Iteration/Trial #59:
+  CurrentEF: 10.0132737680918
+  Optimization variables:
+    R1.R = 64.90746384028779
+    TL1.E = 24.62746575122607
+    TL1.Z = 22.44859772589028
+    TL2.E = 179.9843672932561
+    TL2.Z = 22.1648962515675
+    TL3.E = 109.6817008888539
+    TL4.E = 165.3517362921809
+    TL4.Z = 20.55154171998937
+    TL5.E = 112.9841860929126
+    TL5.Z = 72.31108743382545
+    TL6.E = 21.80664779151099
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.5656788456471
+    TL7.Z = 27.41632236079434
+
+SP Optim1[1].SP1[60] <finalmaybe_lib:output_match:schematic>  optIter=60  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[60] <finalmaybe_lib:output_match:schematic>  optIter=60  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[60] <finalmaybe_lib:output_match:schematic>  optIter=60  freq=7.2 GHz
+
+Iteration/Trial #60:
+  CurrentEF: 10.0123121604758
+  Optimization variables:
+    R1.R = 64.25636796325695
+    TL1.E = 24.62657302562539
+    TL1.Z = 22.44859772600101
+    TL2.E = 179.9843672932561
+    TL2.Z = 22.16489626497631
+    TL3.E = 109.6815162131907
+    TL4.E = 165.3517362921809
+    TL4.Z = 20.55154171987563
+    TL5.E = 112.9854283273482
+    TL5.Z = 71.58740808867809
+    TL6.E = 21.80664779133872
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.56628570352275
+    TL7.Z = 27.69250507927388
+
+SP Optim1[1].SP1[61] <finalmaybe_lib:output_match:schematic>  optIter=61  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[61] <finalmaybe_lib:output_match:schematic>  optIter=61  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[61] <finalmaybe_lib:output_match:schematic>  optIter=61  freq=7.2 GHz
+
+Iteration/Trial #61:
+  CurrentEF: 10.0114267284649
+  Optimization variables:
+    R1.R = 63.58434940675325
+    TL1.E = 24.64710923484684
+    TL1.Z = 22.44859770251177
+    TL2.E = 179.984367293259
+    TL2.Z = 21.95189683004758
+    TL3.E = 109.4185143828015
+    TL4.E = 165.3517362923572
+    TL4.Z = 20.55154164403126
+    TL5.E = 113.1945373076384
+    TL5.Z = 71.51882065828833
+    TL6.E = 21.80664779858289
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.4205143232404
+    TL7.Z = 28.00179701692164
+
+SP Optim1[1].SP1[62] <finalmaybe_lib:output_match:schematic>  optIter=62  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[62] <finalmaybe_lib:output_match:schematic>  optIter=62  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[62] <finalmaybe_lib:output_match:schematic>  optIter=62  freq=7.2 GHz
+
+Iteration/Trial #62:
+  CurrentEF: 10.0101629817449
+  Optimization variables:
+    R1.R = 62.88312430999165
+    TL1.E = 24.6486021990925
+    TL1.Z = 22.4485976731451
+    TL2.E = 179.9843672932734
+    TL2.Z = 21.74194197701267
+    TL3.E = 109.3225806905889
+    TL4.E = 165.3517362926217
+    TL4.Z = 20.55154149840012
+    TL5.E = 113.6612982533353
+    TL5.Z = 71.36880516955915
+    TL6.E = 21.8066478314721
+    TL6.Z = 25.42152759933609
+    TL7.E = 28.02345714686791
+    TL7.Z = 28.35357167217682
+
+SP Optim1[1].SP1[63] <finalmaybe_lib:output_match:schematic>  optIter=63  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[63] <finalmaybe_lib:output_match:schematic>  optIter=63  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[63] <finalmaybe_lib:output_match:schematic>  optIter=63  freq=7.2 GHz
+
+Iteration/Trial #63:
+  CurrentEF: 10.0097779172394
+  Optimization variables:
+    R1.R = 62.24233328052259
+    TL1.E = 24.64885984349214
+    TL1.Z = 22.44859766859518
+    TL2.E = 179.9843672932748
+    TL2.Z = 21.53522825617052
+    TL3.E = 109.3125023409995
+    TL4.E = 165.3517362927099
+    TL4.Z = 20.55154147653347
+    TL5.E = 113.7095685860568
+    TL5.Z = 71.34643620046562
+    TL6.E = 21.8066478411044
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.98228608350522
+    TL7.Z = 28.36299827052849
+
+SP Optim1[1].SP1[64] <finalmaybe_lib:output_match:schematic>  optIter=64  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[64] <finalmaybe_lib:output_match:schematic>  optIter=64  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[64] <finalmaybe_lib:output_match:schematic>  optIter=64  freq=7.2 GHz
+
+Iteration/Trial #64:
+  CurrentEF: 10.0094182926952
+  Optimization variables:
+    R1.R = 61.60747585546007
+    TL1.E = 24.64889523921612
+    TL1.Z = 22.44859766412825
+    TL2.E = 179.9843672932748
+    TL2.Z = 21.33197264949551
+    TL3.E = 109.307558210997
+    TL4.E = 165.351736292798
+    TL4.Z = 20.5515414545428
+    TL5.E = 113.7396284451952
+    TL5.Z = 71.323495770633
+    TL6.E = 21.80664784188769
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.95617139556812
+    TL7.Z = 28.37418817438486
+
+SP Optim1[1].SP1[65] <finalmaybe_lib:output_match:schematic>  optIter=65  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[65] <finalmaybe_lib:output_match:schematic>  optIter=65  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[65] <finalmaybe_lib:output_match:schematic>  optIter=65  freq=7.2 GHz
+
+Iteration/Trial #65:
+  CurrentEF: 10.0094020492486
+  Optimization variables:
+    R1.R = 61.60746755963289
+    TL1.E = 24.64983945954363
+    TL1.Z = 22.44859766400159
+    TL2.E = 179.9843672932748
+    TL2.Z = 21.13248884642179
+    TL3.E = 109.307874031288
+    TL4.E = 165.351736292798
+    TL4.Z = 20.55154145459428
+    TL5.E = 113.7394794438441
+    TL5.Z = 71.32348418846783
+    TL6.E = 21.80664784193037
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.95597062129232
+    TL7.Z = 28.3741964155313
+
+SP Optim1[1].SP1[66] <finalmaybe_lib:output_match:schematic>  optIter=66  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[66] <finalmaybe_lib:output_match:schematic>  optIter=66  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[66] <finalmaybe_lib:output_match:schematic>  optIter=66  freq=7.2 GHz
+
+Iteration/Trial #66:
+  CurrentEF: 10.0094004479591
+  Optimization variables:
+    R1.R = 61.60745934205221
+    TL1.E = 24.64982846603445
+    TL1.Z = 22.44859766400528
+    TL2.E = 179.9843672932748
+    TL2.Z = 20.93728481209158
+    TL3.E = 109.3080147883806
+    TL4.E = 165.351736292798
+    TL4.Z = 20.55154145458661
+    TL5.E = 113.7393105332026
+    TL5.Z = 71.32347130652306
+    TL6.E = 21.80664784197496
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.9557623380654
+    TL7.Z = 28.37420570719241
+
+SP Optim1[1].SP1[67] <finalmaybe_lib:output_match:schematic>  optIter=67  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[67] <finalmaybe_lib:output_match:schematic>  optIter=67  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[67] <finalmaybe_lib:output_match:schematic>  optIter=67  freq=7.2 GHz
+
+Iteration/Trial #67:
+  CurrentEF: 10.0093997517063
+  Optimization variables:
+    R1.R = 61.60746190322513
+    TL1.E = 24.64983269632962
+    TL1.Z = 22.44859766400361
+    TL2.E = 179.9843672932748
+    TL2.Z = 20.74712546798053
+    TL3.E = 109.3079640640846
+    TL4.E = 165.351736292798
+    TL4.Z = 20.55154145458904
+    TL5.E = 113.7392873143888
+    TL5.Z = 71.32347634765553
+    TL6.E = 21.80664784196624
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.95578781100787
+    TL7.Z = 28.37420325636552
+
+SP Optim1[1].SP1[68] <finalmaybe_lib:output_match:schematic>  optIter=68  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[68] <finalmaybe_lib:output_match:schematic>  optIter=68  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[68] <finalmaybe_lib:output_match:schematic>  optIter=68  freq=7.2 GHz
+
+Iteration/Trial #68:
+  CurrentEF: 10.0093475311375
+  Optimization variables:
+    R1.R = 61.60300310647721
+    TL1.E = 24.64280543202885
+    TL1.Z = 22.44859766693292
+    TL2.E = 179.9843672932777
+    TL2.Z = 20.56326353287333
+    TL3.E = 109.3969893496044
+    TL4.E = 165.351736292798
+    TL4.Z = 20.55154145035144
+    TL5.E = 113.7370047857092
+    TL5.Z = 71.3144618349088
+    TL6.E = 21.80664785520052
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.95464711841425
+    TL7.Z = 28.37840892100433
+
+SP Optim1[1].SP1[69] <finalmaybe_lib:output_match:schematic>  optIter=69  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[69] <finalmaybe_lib:output_match:schematic>  optIter=69  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[69] <finalmaybe_lib:output_match:schematic>  optIter=69  freq=7.2 GHz
+
+Iteration/Trial #69:
+  CurrentEF: 10.007848391533
+  Optimization variables:
+    R1.R = 60.61659813117044
+    TL1.E = 24.66667274317561
+    TL1.Z = 22.44859761735534
+    TL2.E = 179.9843672938458
+    TL2.Z = 20.56306410917229
+    TL3.E = 109.1728713303905
+    TL4.E = 165.3517362962361
+    TL4.Z = 20.55153969331048
+    TL5.E = 113.7597015219629
+    TL5.Z = 69.20935980285573
+    TL6.E = 21.80665710053469
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.96348827723462
+    TL7.Z = 29.45538922373538
+
+SP Optim1[1].SP1[70] <finalmaybe_lib:output_match:schematic>  optIter=70  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[70] <finalmaybe_lib:output_match:schematic>  optIter=70  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[70] <finalmaybe_lib:output_match:schematic>  optIter=70  freq=7.2 GHz
+
+Iteration/Trial #70:
+  CurrentEF: 10.0076463026143
+  Optimization variables:
+    R1.R = 60.36123065304246
+    TL1.E = 24.66929731679832
+    TL1.Z = 22.44859791420446
+    TL2.E = 179.9843672943047
+    TL2.Z = 20.38934267034269
+    TL3.E = 109.1177332999788
+    TL4.E = 165.3517362965888
+    TL4.Z = 20.55153938201685
+    TL5.E = 113.74935009056
+    TL5.Z = 68.31911266280063
+    TL6.E = 21.8066699073902
+    TL6.Z = 25.42152759933609
+    TL7.E = 27.95840010904574
+    TL7.Z = 29.65818416877348
+
+SP Optim1[1].SP1[71] <finalmaybe_lib:output_match:schematic>  optIter=71  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[71] <finalmaybe_lib:output_match:schematic>  optIter=71  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[71] <finalmaybe_lib:output_match:schematic>  optIter=71  freq=7.2 GHz
+
+Iteration/Trial #71:
+  CurrentEF: 10.007572239967
+  Optimization variables:
+    R1.R = 60.28337923115618
+    TL1.E = 24.66475161301624
+    TL1.Z = 22.44859988157982
+    TL2.E = 179.9843672962953
+    TL2.Z = 20.22781688533419
+    TL3.E = 109.2131689061364
+    TL4.E = 165.351736292798
+    TL4.Z = 20.55154075281908
+    TL5.E = 113.742962956342
+    TL5.Z = 68.33280156734959
+    TL6.E = 21.80671610087585
+    TL6.Z = 25.42152759947223
+    TL7.E = 27.9589878242042
+    TL7.Z = 29.65026930390787
+
+SP Optim1[1].SP1[72] <finalmaybe_lib:output_match:schematic>  optIter=72  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[72] <finalmaybe_lib:output_match:schematic>  optIter=72  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[72] <finalmaybe_lib:output_match:schematic>  optIter=72  freq=7.2 GHz
+
+Iteration/Trial #72:
+  CurrentEF: 10.0074757985291
+  Optimization variables:
+    R1.R = 60.11498966772309
+    TL1.E = 24.67509971713703
+    TL1.Z = 22.44860233141043
+    TL2.E = 179.9843672989433
+    TL2.Z = 20.08797339404744
+    TL3.E = 109.0880181827056
+    TL4.E = 165.3517362885664
+    TL4.Z = 20.55154223128701
+    TL5.E = 113.7385023264276
+    TL5.Z = 68.04982393417735
+    TL6.E = 21.8067682762907
+    TL6.Z = 25.42152759960837
+    TL7.E = 27.96061890280282
+    TL7.Z = 29.70999423454546
+
+SP Optim1[1].SP1[73] <finalmaybe_lib:output_match:schematic>  optIter=73  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[73] <finalmaybe_lib:output_match:schematic>  optIter=73  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[73] <finalmaybe_lib:output_match:schematic>  optIter=73  freq=7.2 GHz
+
+Iteration/Trial #73:
+  CurrentEF: 10.0068379371819
+  Optimization variables:
+    R1.R = 59.29384944244222
+    TL1.E = 24.65736632690514
+    TL1.Z = 22.44862365617972
+    TL2.E = 179.9843673217421
+    TL2.Z = 20.28984136239459
+    TL3.E = 109.3222321182354
+    TL4.E = 165.3517362490718
+    TL4.Z = 20.5515566530248
+    TL5.E = 113.6986523872271
+    TL5.Z = 68.32307009233411
+    TL6.E = 21.80723712582791
+    TL6.Z = 25.42152760110595
+    TL7.E = 28.00320930918732
+    TL7.Z = 29.92643402677424
+
+SP Optim1[1].SP1[74] <finalmaybe_lib:output_match:schematic>  optIter=74  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[74] <finalmaybe_lib:output_match:schematic>  optIter=74  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[74] <finalmaybe_lib:output_match:schematic>  optIter=74  freq=7.2 GHz
+
+Iteration/Trial #74:
+  CurrentEF: 10.0038002069372
+  Optimization variables:
+    R1.R = 54.45793080435227
+    TL1.E = 24.63414360644883
+    TL1.Z = 22.44873598575033
+    TL2.E = 179.984367442194
+    TL2.Z = 20.2772737334774
+    TL3.E = 109.624859961282
+    TL4.E = 165.3517360432237
+    TL4.Z = 20.55163145021745
+    TL5.E = 113.4900907977721
+    TL5.Z = 67.92764331286551
+    TL6.E = 21.80969249726282
+    TL6.Z = 25.42152760913837
+    TL7.E = 28.21260296400663
+    TL7.Z = 31.33873811483494
+
+SP Optim1[1].SP1[75] <finalmaybe_lib:output_match:schematic>  optIter=75  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[75] <finalmaybe_lib:output_match:schematic>  optIter=75  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[75] <finalmaybe_lib:output_match:schematic>  optIter=75  freq=7.2 GHz
+
+Iteration/Trial #75:
+  CurrentEF: 10.0020694619062
+  Optimization variables:
+    R1.R = 51.17885814733956
+    TL1.E = 24.62446471808651
+    TL1.Z = 22.44881241489831
+    TL2.E = 179.984367524175
+    TL2.Z = 20.26429874527674
+    TL3.E = 109.7349268716396
+    TL4.E = 165.3517359033174
+    TL4.Z = 20.55168221152799
+    TL5.E = 113.3459311422063
+    TL5.Z = 67.50840591998079
+    TL6.E = 21.81135981566769
+    TL6.Z = 25.42152761458409
+    TL7.E = 28.3521524862387
+    TL7.Z = 32.30638662556791
+
+SP Optim1[1].SP1[76] <finalmaybe_lib:output_match:schematic>  optIter=76  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[76] <finalmaybe_lib:output_match:schematic>  optIter=76  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[76] <finalmaybe_lib:output_match:schematic>  optIter=76  freq=7.2 GHz
+
+Iteration/Trial #76:
+  CurrentEF: 9.99772589221382
+  Optimization variables:
+    R1.R = 42.82443705417815
+    TL1.E = 24.59892481361203
+    TL1.Z = 22.44903059513281
+    TL2.E = 179.984367757986
+    TL2.Z = 20.22556889569724
+    TL3.E = 109.896077169523
+    TL4.E = 165.3517355022882
+    TL4.Z = 20.55182805959223
+    TL5.E = 112.908657651542
+    TL5.Z = 67.67655850337324
+    TL6.E = 21.81609841088255
+    TL6.Z = 25.42152763010438
+    TL7.E = 28.7308175797501
+    TL7.Z = 33.93791257088139
+
+SP Optim1[1].SP1[77] <finalmaybe_lib:output_match:schematic>  optIter=77  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[77] <finalmaybe_lib:output_match:schematic>  optIter=77  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[77] <finalmaybe_lib:output_match:schematic>  optIter=77  freq=7.2 GHz
+
+Iteration/Trial #77:
+  CurrentEF: 9.9908560710229
+  Optimization variables:
+    R1.R = 32.34983442632367
+    TL1.E = 24.56488396856265
+    TL1.Z = 22.4493843704001
+    TL2.E = 179.9843681379207
+    TL2.Z = 20.10538341478643
+    TL3.E = 109.7611818719108
+    TL4.E = 165.3517348520373
+    TL4.Z = 20.55206393236804
+    TL5.E = 112.1257787920159
+    TL5.Z = 67.99833056882535
+    TL6.E = 21.82375462500932
+    TL6.Z = 25.42152765501852
+    TL7.E = 29.287213367907
+    TL7.Z = 35.03844952507329
+
+SP Optim1[1].SP1[78] <finalmaybe_lib:output_match:schematic>  optIter=78  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[78] <finalmaybe_lib:output_match:schematic>  optIter=78  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[78] <finalmaybe_lib:output_match:schematic>  optIter=78  freq=7.2 GHz
+
+Iteration/Trial #78:
+  CurrentEF: 9.9885452552863
+  Optimization variables:
+    R1.R = 32.34037043893635
+    TL1.E = 24.56092925091952
+    TL1.Z = 22.44940589085664
+    TL2.E = 179.9843681612885
+    TL2.Z = 20.08587401928294
+    TL3.E = 109.6830396653184
+    TL4.E = 165.3517348122782
+    TL4.Z = 20.55207819336765
+    TL5.E = 112.0464821050042
+    TL5.Z = 68.24062940975355
+    TL6.E = 21.82420913558122
+    TL6.Z = 25.42152765651609
+    TL7.E = 29.29428495414223
+    TL7.Z = 34.33241439284142
+
+SP Optim1[1].SP1[79] <finalmaybe_lib:output_match:schematic>  optIter=79  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[79] <finalmaybe_lib:output_match:schematic>  optIter=79  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[79] <finalmaybe_lib:output_match:schematic>  optIter=79  freq=7.2 GHz
+
+Iteration/Trial #79:
+  CurrentEF: 9.98670064750095
+  Optimization variables:
+    R1.R = 30.5148333753901
+    TL1.E = 24.54872002183786
+    TL1.Z = 22.44948188390038
+    TL2.E = 179.9843682436358
+    TL2.Z = 20.06214202884094
+    TL3.E = 109.6840022426635
+    TL4.E = 165.3517346753693
+    TL4.Z = 20.55212734128321
+    TL5.E = 111.8348284013471
+    TL5.Z = 66.39508662043463
+    TL6.E = 21.82585834153976
+    TL6.Z = 25.42152766182566
+    TL7.E = 29.3743599398133
+    TL7.Z = 34.61220464824104
+
+SP Optim1[1].SP1[80] <finalmaybe_lib:output_match:schematic>  optIter=80  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[80] <finalmaybe_lib:output_match:schematic>  optIter=80  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[80] <finalmaybe_lib:output_match:schematic>  optIter=80  freq=7.2 GHz
+
+Iteration/Trial #80:
+  CurrentEF: 9.98226289774777
+  Optimization variables:
+    R1.R = 25.78910699126138
+    TL1.E = 24.50136657702008
+    TL1.Z = 22.44972573074294
+    TL2.E = 179.9843685073602
+    TL2.Z = 20.01455716298294
+    TL3.E = 109.8038669499374
+    TL4.E = 165.3517342361678
+    TL4.Z = 20.55228525137063
+    TL5.E = 111.077066767862
+    TL5.Z = 60.37556453437324
+    TL6.E = 21.8311441231418
+    TL6.Z = 25.42152767870738
+    TL7.E = 29.55564653291474
+    TL7.Z = 33.64950980281593
+
+SP Optim1[1].SP1[81] <finalmaybe_lib:output_match:schematic>  optIter=81  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[81] <finalmaybe_lib:output_match:schematic>  optIter=81  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[81] <finalmaybe_lib:output_match:schematic>  optIter=81  freq=7.2 GHz
+
+Iteration/Trial #81:
+  CurrentEF: 9.96895409370772
+  Optimization variables:
+    R1.R = 21.591936082013
+    TL1.E = 24.33446477071443
+    TL1.Z = 22.45008585180018
+    TL2.E = 179.9843688931194
+    TL2.Z = 20.0084286883545
+    TL3.E = 110.9657462958792
+    TL4.E = 165.3517335981707
+    TL4.Z = 20.55251753031178
+    TL5.E = 109.7900810387513
+    TL5.Z = 53.99699539832854
+    TL6.E = 21.83886618052677
+    TL6.Z = 25.42152770334923
+    TL7.E = 29.68317834896933
+    TL7.Z = 28.27223252502548
+
+SP Optim1[1].SP1[82] <finalmaybe_lib:output_match:schematic>  optIter=82  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[82] <finalmaybe_lib:output_match:schematic>  optIter=82  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[82] <finalmaybe_lib:output_match:schematic>  optIter=82  freq=7.2 GHz
+
+Iteration/Trial #82:
+  CurrentEF: 9.96604362330773
+  Optimization variables:
+    R1.R = 21.34491803581611
+    TL1.E = 24.31958079084051
+    TL1.Z = 22.45011849777735
+    TL2.E = 179.9843689280084
+    TL2.Z = 20.01320564393211
+    TL3.E = 111.0779722418694
+    TL4.E = 165.351733541838
+    TL4.Z = 20.55253797404639
+    TL5.E = 109.6473654590322
+    TL5.Z = 52.55077151578818
+    TL6.E = 21.83956323385312
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.66786211897551
+    TL7.Z = 27.66097746331946
+
+SP Optim1[1].SP1[83] <finalmaybe_lib:output_match:schematic>  optIter=83  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[83] <finalmaybe_lib:output_match:schematic>  optIter=83  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[83] <finalmaybe_lib:output_match:schematic>  optIter=83  freq=7.2 GHz
+
+Iteration/Trial #83:
+  CurrentEF: 9.96323265792099
+  Optimization variables:
+    R1.R = 21.34490975949277
+    TL1.E = 24.33751222064311
+    TL1.Z = 22.4501184953458
+    TL2.E = 179.9843689280084
+    TL2.Z = 20.01320564392986
+    TL3.E = 111.0818750117912
+    TL4.E = 165.351733541838
+    TL4.Z = 20.55253797512666
+    TL5.E = 109.6468863944742
+    TL5.Z = 52.55067830556573
+    TL6.E = 21.83956323411406
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.66635051078899
+    TL7.Z = 27.6609922569769
+
+SP Optim1[1].SP1[84] <finalmaybe_lib:output_match:schematic>  optIter=84  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[84] <finalmaybe_lib:output_match:schematic>  optIter=84  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[84] <finalmaybe_lib:output_match:schematic>  optIter=84  freq=7.2 GHz
+
+Iteration/Trial #84:
+  CurrentEF: 9.96230803091623
+  Optimization variables:
+    R1.R = 21.14516671149893
+    TL1.E = 24.33748718223268
+    TL1.Z = 22.45011849546274
+    TL2.E = 179.9843689280084
+    TL2.Z = 20.01320564382385
+    TL3.E = 111.0857399997572
+    TL4.E = 165.351733541838
+    TL4.Z = 20.55253797516603
+    TL5.E = 109.6336485207841
+    TL5.Z = 52.02409341947446
+    TL6.E = 21.8395632374609
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.64935783430224
+    TL7.Z = 27.66116035504386
+
+SP Optim1[1].SP1[85] <finalmaybe_lib:output_match:schematic>  optIter=85  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[85] <finalmaybe_lib:output_match:schematic>  optIter=85  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[85] <finalmaybe_lib:output_match:schematic>  optIter=85  freq=7.2 GHz
+
+Iteration/Trial #85:
+  CurrentEF: 9.96221586236196
+  Optimization variables:
+    R1.R = 21.14517036527389
+    TL1.E = 24.33408066803405
+    TL1.Z = 22.45011849602579
+    TL2.E = 179.9843689280084
+    TL2.Z = 20.01320564382368
+    TL3.E = 111.0861455637858
+    TL4.E = 165.351733541838
+    TL4.Z = 20.55253797506409
+    TL5.E = 109.6310064714039
+    TL5.Z = 52.02421105628582
+    TL6.E = 21.83956323832817
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.64593376091948
+    TL7.Z = 27.66113138500459
+
+SP Optim1[1].SP1[86] <finalmaybe_lib:output_match:schematic>  optIter=86  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[86] <finalmaybe_lib:output_match:schematic>  optIter=86  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[86] <finalmaybe_lib:output_match:schematic>  optIter=86  freq=7.2 GHz
+
+Iteration/Trial #86:
+  CurrentEF: 9.96194303981428
+  Optimization variables:
+    R1.R = 21.35863360939581
+    TL1.E = 24.33584347810575
+    TL1.Z = 22.45011849629235
+    TL2.E = 179.9843689280084
+    TL2.Z = 20.01320564382368
+    TL3.E = 111.0928065878037
+    TL4.E = 165.351733541838
+    TL4.Z = 20.55253797570376
+    TL5.E = 109.6218408515615
+    TL5.Z = 52.02470813641052
+    TL6.E = 21.83956324198256
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.63167230513131
+    TL7.Z = 27.66097430295777
+
+SP Optim1[1].SP1[87] <finalmaybe_lib:output_match:schematic>  optIter=87  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[87] <finalmaybe_lib:output_match:schematic>  optIter=87  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[87] <finalmaybe_lib:output_match:schematic>  optIter=87  freq=7.2 GHz
+
+Iteration/Trial #87:
+  CurrentEF: 9.95841538670654
+  Optimization variables:
+    R1.R = 21.35944648321113
+    TL1.E = 24.27193417377419
+    TL1.Z = 22.45011854533627
+    TL2.E = 179.9843689280214
+    TL2.Z = 20.01320564380903
+    TL3.E = 111.8159343955503
+    TL4.E = 165.3517335417498
+    TL4.Z = 20.55253801113199
+    TL5.E = 109.8366997604615
+    TL5.Z = 52.02680459704746
+    TL6.E = 21.83956332335246
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.33530013715888
+    TL7.Z = 27.65148427558467
+
+SP Optim1[1].SP1[88] <finalmaybe_lib:output_match:schematic>  optIter=88  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[88] <finalmaybe_lib:output_match:schematic>  optIter=88  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[88] <finalmaybe_lib:output_match:schematic>  optIter=88  freq=7.2 GHz
+
+Iteration/Trial #88:
+  CurrentEF: 9.95677562633488
+  Optimization variables:
+    R1.R = 21.35906769204017
+    TL1.E = 24.25384114729366
+    TL1.Z = 22.45011848306458
+    TL2.E = 179.9843689280386
+    TL2.Z = 20.01320558438827
+    TL3.E = 112.0304413209843
+    TL4.E = 165.3517335420142
+    TL4.Z = 20.5525378365366
+    TL5.E = 110.0026211792206
+    TL5.Z = 51.58212258530693
+    TL6.E = 21.83956318081185
+    TL6.Z = 25.42152770552752
+    TL7.E = 29.12934959612594
+    TL7.Z = 27.75088145789358
+
+SP Optim1[1].SP1[89] <finalmaybe_lib:output_match:schematic>  optIter=89  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[89] <finalmaybe_lib:output_match:schematic>  optIter=89  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[89] <finalmaybe_lib:output_match:schematic>  optIter=89  freq=7.2 GHz
+
+Iteration/Trial #89:
+  CurrentEF: 9.95590473396516
+  Optimization variables:
+    R1.R = 21.58316147321714
+    TL1.E = 24.26393287259851
+    TL1.Z = 22.45011851133904
+    TL2.E = 179.9843689280458
+    TL2.Z = 20.01320555762605
+    TL3.E = 111.8315182750387
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253775364447
+    TL5.E = 110.3711462022876
+    TL5.Z = 51.49095771407922
+    TL6.E = 21.83956342079499
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.89864510103943
+    TL7.Z = 27.73866749401319
+
+SP Optim1[1].SP1[90] <finalmaybe_lib:output_match:schematic>  optIter=90  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[90] <finalmaybe_lib:output_match:schematic>  optIter=90  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[90] <finalmaybe_lib:output_match:schematic>  optIter=90  freq=7.2 GHz
+
+Iteration/Trial #90:
+  CurrentEF: 9.9556955027524
+  Optimization variables:
+    R1.R = 21.80373868211672
+    TL1.E = 24.26531823631564
+    TL1.Z = 22.45011853132928
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.01320555744869
+    TL3.E = 111.8085553830612
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773805377
+    TL5.E = 110.4175131176634
+    TL5.Z = 51.4761155196223
+    TL6.E = 21.8395635064927
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.86791589133379
+    TL7.Z = 27.73205706294364
+
+SP Optim1[1].SP1[91] <finalmaybe_lib:output_match:schematic>  optIter=91  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[91] <finalmaybe_lib:output_match:schematic>  optIter=91  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[91] <finalmaybe_lib:output_match:schematic>  optIter=91  freq=7.2 GHz
+
+Iteration/Trial #91:
+  CurrentEF: 9.95514655979064
+  Optimization variables:
+    R1.R = 22.02377661235697
+    TL1.E = 24.27525159506605
+    TL1.Z = 22.45011852999004
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.21533761302366
+    TL3.E = 111.8093007757999
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773861578
+    TL5.E = 110.4140447620414
+    TL5.Z = 51.47620440518038
+    TL6.E = 21.83956350744739
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.86454234283778
+    TL7.Z = 27.73204011084512
+
+SP Optim1[1].SP1[92] <finalmaybe_lib:output_match:schematic>  optIter=92  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[92] <finalmaybe_lib:output_match:schematic>  optIter=92  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[92] <finalmaybe_lib:output_match:schematic>  optIter=92  freq=7.2 GHz
+
+Iteration/Trial #92:
+  CurrentEF: 9.95491155802453
+  Optimization variables:
+    R1.R = 22.24602129749264
+    TL1.E = 24.2752335084765
+    TL1.Z = 22.45011853000622
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.07850301609486
+    TL3.E = 111.808095276767
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773856012
+    TL5.E = 110.4101834837689
+    TL5.Z = 51.47625649379764
+    TL6.E = 21.83956350841254
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.86108159128966
+    TL7.Z = 27.73203359998286
+
+SP Optim1[1].SP1[93] <finalmaybe_lib:output_match:schematic>  optIter=93  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[93] <finalmaybe_lib:output_match:schematic>  optIter=93  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[93] <finalmaybe_lib:output_match:schematic>  optIter=93  freq=7.2 GHz
+
+Iteration/Trial #93:
+  CurrentEF: 9.95486664525596
+  Optimization variables:
+    R1.R = 22.24599553425736
+    TL1.E = 24.27496717332745
+    TL1.Z = 22.45011852955484
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088507403908
+    TL3.E = 111.8105775587667
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773625741
+    TL5.E = 110.4141763255511
+    TL5.Z = 51.47041740979766
+    TL6.E = 21.83956350725452
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.85542508273391
+    TL7.Z = 27.73294977622153
+
+SP Optim1[1].SP1[94] <finalmaybe_lib:output_match:schematic>  optIter=94  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[94] <finalmaybe_lib:output_match:schematic>  optIter=94  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[94] <finalmaybe_lib:output_match:schematic>  optIter=94  freq=7.2 GHz
+
+Iteration/Trial #94:
+  CurrentEF: 9.95485502849987
+  Optimization variables:
+    R1.R = 22.24605865220845
+    TL1.E = 24.27471270109777
+    TL1.Z = 22.45011852994453
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088509706369
+    TL3.E = 111.813061548715
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773597798
+    TL5.E = 110.4172410998639
+    TL5.Z = 51.46991985466651
+    TL6.E = 21.8395635089462
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.85238432033131
+    TL7.Z = 27.73274495448151
+
+SP Optim1[1].SP1[95] <finalmaybe_lib:output_match:schematic>  optIter=95  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[95] <finalmaybe_lib:output_match:schematic>  optIter=95  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[95] <finalmaybe_lib:output_match:schematic>  optIter=95  freq=7.2 GHz
+
+Iteration/Trial #95:
+  CurrentEF: 9.95485028238561
+  Optimization variables:
+    R1.R = 22.24613616391295
+    TL1.E = 24.27478541147465
+    TL1.Z = 22.45011853018211
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088513232078
+    TL3.E = 111.8116695294473
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773554135
+    TL5.E = 110.4194988373898
+    TL5.Z = 51.46964330903653
+    TL6.E = 21.83956351069784
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.85091759614425
+    TL7.Z = 27.73248426307361
+
+SP Optim1[1].SP1[96] <finalmaybe_lib:output_match:schematic>  optIter=96  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[96] <finalmaybe_lib:output_match:schematic>  optIter=96  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[96] <finalmaybe_lib:output_match:schematic>  optIter=96  freq=7.2 GHz
+
+Iteration/Trial #96:
+  CurrentEF: 9.95484615192323
+  Optimization variables:
+    R1.R = 22.2463349687393
+    TL1.E = 24.27479795043761
+    TL1.Z = 22.45011853089406
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088522145204
+    TL3.E = 111.8112732049767
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773452205
+    TL5.E = 110.4207254116931
+    TL5.Z = 51.4690667904175
+    TL6.E = 21.83956351534911
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84997157029651
+    TL7.Z = 27.73199514322269
+
+SP Optim1[1].SP1[97] <finalmaybe_lib:output_match:schematic>  optIter=97  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[97] <finalmaybe_lib:output_match:schematic>  optIter=97  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[97] <finalmaybe_lib:output_match:schematic>  optIter=97  freq=7.2 GHz
+
+Iteration/Trial #97:
+  CurrentEF: 9.95484091142429
+  Optimization variables:
+    R1.R = 22.24671409536705
+    TL1.E = 24.27480781743737
+    TL1.Z = 22.45011853231014
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088532462597
+    TL3.E = 111.8109115960959
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773260052
+    TL5.E = 110.4219767375829
+    TL5.Z = 51.46799175845162
+    TL6.E = 21.83956352449953
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84894418681162
+    TL7.Z = 27.7310793848064
+
+SP Optim1[1].SP1[98] <finalmaybe_lib:output_match:schematic>  optIter=98  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[98] <finalmaybe_lib:output_match:schematic>  optIter=98  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[98] <finalmaybe_lib:output_match:schematic>  optIter=98  freq=7.2 GHz
+
+Iteration/Trial #98:
+  CurrentEF: 9.95483865985929
+  Optimization variables:
+    R1.R = 22.24691728441902
+    TL1.E = 24.27481069960682
+    TL1.Z = 22.4501185331038
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536463553
+    TL3.E = 111.8108051691488
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773159008
+    TL5.E = 110.4224026953685
+    TL5.Z = 51.46743485138876
+    TL6.E = 21.83956352956449
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84856651816536
+    TL7.Z = 27.73057812048335
+
+SP Optim1[1].SP1[99] <finalmaybe_lib:output_match:schematic>  optIter=99  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[99] <finalmaybe_lib:output_match:schematic>  optIter=99  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[99] <finalmaybe_lib:output_match:schematic>  optIter=99  freq=7.2 GHz
+
+Iteration/Trial #99:
+  CurrentEF: 9.95483334231074
+  Optimization variables:
+    R1.R = 22.24691738337339
+    TL1.E = 24.27509879280647
+    TL1.Z = 22.45011853306483
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536463313
+    TL3.E = 111.8108212555607
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773160336
+    TL5.E = 110.4223102397074
+    TL5.Z = 51.46743147565786
+    TL6.E = 21.83956352960006
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84843293911219
+    TL7.Z = 27.73057835664269
+
+SP Optim1[1].SP1[100] <finalmaybe_lib:output_match:schematic>  optIter=100  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[100] <finalmaybe_lib:output_match:schematic>  optIter=100  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[100] <finalmaybe_lib:output_match:schematic>  optIter=100  freq=7.2 GHz
+
+Iteration/Trial #100:
+  CurrentEF: 9.95478649450844
+  Optimization variables:
+    R1.R = 22.47138760013543
+    TL1.E = 24.2764085737274
+    TL1.Z = 22.45011853289055
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536462201
+    TL3.E = 111.8109379581739
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773166481
+    TL5.E = 110.4222775623751
+    TL5.Z = 51.46740289640013
+    TL6.E = 21.83956352970347
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84850306126918
+    TL7.Z = 27.73057516825969
+
+SP Optim1[1].SP1[101] <finalmaybe_lib:output_match:schematic>  optIter=101  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[101] <finalmaybe_lib:output_match:schematic>  optIter=101  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[101] <finalmaybe_lib:output_match:schematic>  optIter=101  freq=7.2 GHz
+
+Iteration/Trial #101:
+  CurrentEF: 9.95467018969031
+  Optimization variables:
+    R1.R = 22.47138655478885
+    TL1.E = 24.27890086750796
+    TL1.Z = 22.45011853254493
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536460075
+    TL3.E = 111.8111409728877
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773178181
+    TL5.E = 110.4214836864529
+    TL5.Z = 51.46736045087804
+    TL6.E = 21.83956352989754
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84767778094618
+    TL7.Z = 27.73058387612175
+
+SP Optim1[1].SP1[102] <finalmaybe_lib:output_match:schematic>  optIter=102  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[102] <finalmaybe_lib:output_match:schematic>  optIter=102  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[102] <finalmaybe_lib:output_match:schematic>  optIter=102  freq=7.2 GHz
+
+Iteration/Trial #102:
+  CurrentEF: 9.95465325992972
+  Optimization variables:
+    R1.R = 22.47138772995641
+    TL1.E = 24.27888684002613
+    TL1.Z = 22.45011853254353
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536459871
+    TL3.E = 111.8108764076653
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.5525377317473
+    TL5.E = 110.4206459117214
+    TL5.Z = 51.46731742498995
+    TL6.E = 21.83956353009468
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84686532298226
+    TL7.Z = 27.73059225379605
+
+SP Optim1[1].SP1[103] <finalmaybe_lib:output_match:schematic>  optIter=103  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[103] <finalmaybe_lib:output_match:schematic>  optIter=103  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[103] <finalmaybe_lib:output_match:schematic>  optIter=103  freq=7.2 GHz
+
+Iteration/Trial #103:
+  CurrentEF: 9.95464544277063
+  Optimization variables:
+    R1.R = 22.4714109783751
+    TL1.E = 24.27874760530006
+    TL1.Z = 22.45011853265457
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536459225
+    TL3.E = 111.8121951018777
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773139943
+    TL5.E = 110.4224179647173
+    TL5.Z = 51.46649849247375
+    TL6.E = 21.83956353061905
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84509845064478
+    TL7.Z = 27.73060815021432
+
+SP Optim1[1].SP1[104] <finalmaybe_lib:output_match:schematic>  optIter=104  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[104] <finalmaybe_lib:output_match:schematic>  optIter=104  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[104] <finalmaybe_lib:output_match:schematic>  optIter=104  freq=7.2 GHz
+
+Iteration/Trial #104:
+  CurrentEF: 9.95464253790688
+  Optimization variables:
+    R1.R = 22.47144815443558
+    TL1.E = 24.27880447561655
+    TL1.Z = 22.45011853269219
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536459507
+    TL3.E = 111.8111781045413
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.5525377309608
+    TL5.E = 110.4237831870703
+    TL5.Z = 51.46585435962514
+    TL6.E = 21.83956353127943
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84424401868731
+    TL7.Z = 27.73056791485113
+
+SP Optim1[1].SP1[105] <finalmaybe_lib:output_match:schematic>  optIter=105  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[105] <finalmaybe_lib:output_match:schematic>  optIter=105  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[105] <finalmaybe_lib:output_match:schematic>  optIter=105  freq=7.2 GHz
+
+Iteration/Trial #105:
+  CurrentEF: 9.95464239240369
+  Optimization variables:
+    R1.R = 22.47144392865942
+    TL1.E = 24.27879720225626
+    TL1.Z = 22.45011853268422
+    TL2.E = 179.9843689280501
+    TL2.Z = 20.00088536459929
+    TL3.E = 111.811296407568
+    TL4.E = 165.3517335421024
+    TL4.Z = 20.55253773102485
+    TL5.E = 110.4236771923503
+    TL5.Z = 51.4660028153502
+    TL6.E = 21.8395635311019
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.84430335851356
+    TL7.Z = 27.73056360996473
+
+SP Optim1[1].SP1[106] <finalmaybe_lib:output_match:schematic>  optIter=106  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[106] <finalmaybe_lib:output_match:schematic>  optIter=106  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[106] <finalmaybe_lib:output_match:schematic>  optIter=106  freq=7.2 GHz
+
+Iteration/Trial #106:
+  CurrentEF: 9.95437363451398
+  Optimization variables:
+    R1.R = 22.71311351399686
+    TL1.E = 24.27750070696046
+    TL1.Z = 22.45011855621993
+    TL2.E = 179.9843689280458
+    TL2.Z = 20.00088537349071
+    TL3.E = 111.8264073069898
+    TL4.E = 165.3517335424551
+    TL4.Z = 20.55253756570898
+    TL5.E = 110.4111829156868
+    TL5.Z = 51.273232465514
+    TL6.E = 21.83956361809252
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.83952959684186
+    TL7.Z = 27.70753888605493
+
+SP Optim1[1].SP1[107] <finalmaybe_lib:output_match:schematic>  optIter=107  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[107] <finalmaybe_lib:output_match:schematic>  optIter=107  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[107] <finalmaybe_lib:output_match:schematic>  optIter=107  freq=7.2 GHz
+
+Iteration/Trial #107:
+  CurrentEF: 9.95311460970814
+  Optimization variables:
+    R1.R = 23.04141904244059
+    TL1.E = 24.27907569159868
+    TL1.Z = 22.45012003239279
+    TL2.E = 179.9843689284327
+    TL2.Z = 20.00088541183436
+    TL3.E = 111.949987479253
+    TL4.E = 165.3517335432485
+    TL4.Z = 20.55253657691132
+    TL5.E = 110.2542738751092
+    TL5.Z = 49.86428217174007
+    TL6.E = 21.83957409868406
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.78483450995628
+    TL7.Z = 26.74226990501869
+
+SP Optim1[1].SP1[108] <finalmaybe_lib:output_match:schematic>  optIter=108  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[108] <finalmaybe_lib:output_match:schematic>  optIter=108  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[108] <finalmaybe_lib:output_match:schematic>  optIter=108  freq=7.2 GHz
+
+Iteration/Trial #108:
+  CurrentEF: 9.9413032422053
+  Optimization variables:
+    R1.R = 25.72154494686968
+    TL1.E = 24.25536025931657
+    TL1.Z = 22.45012981928522
+    TL2.E = 179.9843689311309
+    TL2.Z = 20.00088548516946
+    TL3.E = 112.7004373332702
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253230110679
+    TL5.E = 109.3741986834338
+    TL5.Z = 43.47364257402207
+    TL6.E = 21.83964334326133
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48347316294298
+    TL7.Z = 21.93254479592252
+
+SP Optim1[1].SP1[109] <finalmaybe_lib:output_match:schematic>  optIter=109  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[109] <finalmaybe_lib:output_match:schematic>  optIter=109  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[109] <finalmaybe_lib:output_match:schematic>  optIter=109  freq=7.2 GHz
+
+Iteration/Trial #109:
+  CurrentEF: 9.94021724754913
+  Optimization variables:
+    R1.R = 25.98078124758019
+    TL1.E = 24.25339809926086
+    TL1.Z = 22.4501298196538
+    TL2.E = 179.9843689311309
+    TL2.Z = 20.00088548071489
+    TL3.E = 112.7004421020205
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253230110632
+    TL5.E = 109.3743821420695
+    TL5.Z = 43.90900642295389
+    TL6.E = 21.83964334353608
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48349322421879
+    TL7.Z = 21.93251306412243
+
+SP Optim1[1].SP1[110] <finalmaybe_lib:output_match:schematic>  optIter=110  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[110] <finalmaybe_lib:output_match:schematic>  optIter=110  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[110] <finalmaybe_lib:output_match:schematic>  optIter=110  freq=7.2 GHz
+
+Iteration/Trial #110:
+  CurrentEF: 9.93999344741892
+  Optimization variables:
+    R1.R = 25.72419196919866
+    TL1.E = 24.25170771416518
+    TL1.Z = 22.45012982093822
+    TL2.E = 179.9843689311309
+    TL2.Z = 20.2028942965962
+    TL3.E = 112.7084455938586
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253230201706
+    TL5.E = 109.3836935947909
+    TL5.Z = 43.90931761020583
+    TL6.E = 21.83964334510254
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48566965730895
+    TL7.Z = 21.93224598456157
+
+SP Optim1[1].SP1[111] <finalmaybe_lib:output_match:schematic>  optIter=111  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[111] <finalmaybe_lib:output_match:schematic>  optIter=111  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[111] <finalmaybe_lib:output_match:schematic>  optIter=111  freq=7.2 GHz
+
+Iteration/Trial #111:
+  CurrentEF: 9.93987944961764
+  Optimization variables:
+    R1.R = 25.72350567954069
+    TL1.E = 24.24696416569034
+    TL1.Z = 22.45012982166947
+    TL2.E = 179.9843689311323
+    TL2.Z = 20.06903720796389
+    TL3.E = 112.7405738042479
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253229770855
+    TL5.E = 109.3956642175655
+    TL5.Z = 43.89883741194874
+    TL6.E = 21.8396433448594
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.46607473050761
+    TL7.Z = 21.93344634808325
+
+SP Optim1[1].SP1[112] <finalmaybe_lib:output_match:schematic>  optIter=112  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[112] <finalmaybe_lib:output_match:schematic>  optIter=112  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[112] <finalmaybe_lib:output_match:schematic>  optIter=112  freq=7.2 GHz
+
+Iteration/Trial #112:
+  CurrentEF: 9.9398332814933
+  Optimization variables:
+    R1.R = 25.72362466015134
+    TL1.E = 24.24585708860669
+    TL1.Z = 22.45012982363636
+    TL2.E = 179.9843689311323
+    TL2.Z = 20.0000157798811
+    TL3.E = 112.7541910525534
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253229850934
+    TL5.E = 109.3972202655802
+    TL5.Z = 43.8982951441866
+    TL6.E = 21.83964335105702
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.4570677452892
+    TL7.Z = 21.93322854988559
+
+SP Optim1[1].SP1[113] <finalmaybe_lib:output_match:schematic>  optIter=113  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[113] <finalmaybe_lib:output_match:schematic>  optIter=113  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[113] <finalmaybe_lib:output_match:schematic>  optIter=113  freq=7.2 GHz
+
+Iteration/Trial #113:
+  CurrentEF: 9.93965422188365
+  Optimization variables:
+    R1.R = 25.72869915371188
+    TL1.E = 24.23036206302134
+    TL1.Z = 22.45012981590215
+    TL2.E = 179.9843689311553
+    TL2.Z = 20.00001800827842
+    TL3.E = 112.982425508828
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253218531182
+    TL5.E = 109.2827646356236
+    TL5.Z = 43.93368373912589
+    TL6.E = 21.83964346423798
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.49200443155562
+    TL7.Z = 21.95614320113856
+
+SP Optim1[1].SP1[114] <finalmaybe_lib:output_match:schematic>  optIter=114  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[114] <finalmaybe_lib:output_match:schematic>  optIter=114  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[114] <finalmaybe_lib:output_match:schematic>  optIter=114  freq=7.2 GHz
+
+Iteration/Trial #114:
+  CurrentEF: 9.93964395499236
+  Optimization variables:
+    R1.R = 25.73106380768117
+    TL1.E = 24.23023737190917
+    TL1.Z = 22.45012982168108
+    TL2.E = 179.9843689311596
+    TL2.Z = 20.00001832694186
+    TL3.E = 112.983416235099
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253216895578
+    TL5.E = 109.2869313149211
+    TL5.Z = 43.93584360509211
+    TL6.E = 21.83964351312062
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48769444677558
+    TL7.Z = 21.95708878948779
+
+SP Optim1[1].SP1[115] <finalmaybe_lib:output_match:schematic>  optIter=115  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[115] <finalmaybe_lib:output_match:schematic>  optIter=115  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[115] <finalmaybe_lib:output_match:schematic>  optIter=115  freq=7.2 GHz
+
+Iteration/Trial #115:
+  CurrentEF: 9.93963864479295
+  Optimization variables:
+    R1.R = 25.732959017085
+    TL1.E = 24.23021568921348
+    TL1.Z = 22.45012982648732
+    TL2.E = 179.9843689311625
+    TL2.Z = 20.00001854230913
+    TL3.E = 112.9835424468729
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253215624697
+    TL5.E = 109.2893345729228
+    TL5.Z = 43.93687729518061
+    TL6.E = 21.83964355278738
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48539334098493
+    TL7.Z = 21.95761052217281
+
+SP Optim1[1].SP1[116] <finalmaybe_lib:output_match:schematic>  optIter=116  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[116] <finalmaybe_lib:output_match:schematic>  optIter=116  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[116] <finalmaybe_lib:output_match:schematic>  optIter=116  freq=7.2 GHz
+
+Iteration/Trial #116:
+  CurrentEF: 9.93963131019493
+  Optimization variables:
+    R1.R = 25.7361921963609
+    TL1.E = 24.2302236101462
+    TL1.Z = 22.45012983511171
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001888854366
+    TL3.E = 112.9833772095005
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213461694
+    TL5.E = 109.292761653031
+    TL5.Z = 43.93805055971733
+    TL6.E = 21.83964362220192
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.4822310858905
+    TL7.Z = 21.95830817862368
+
+SP Optim1[1].SP1[117] <finalmaybe_lib:output_match:schematic>  optIter=117  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[117] <finalmaybe_lib:output_match:schematic>  optIter=117  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[117] <finalmaybe_lib:output_match:schematic>  optIter=117  freq=7.2 GHz
+
+Iteration/Trial #117:
+  CurrentEF: 9.93963075752255
+  Optimization variables:
+    R1.R = 25.73647049484135
+    TL1.E = 24.23022583962561
+    TL1.Z = 22.45012983589183
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001891762347
+    TL3.E = 112.9833531760729
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213273851
+    TL5.E = 109.2930172760412
+    TL5.Z = 43.93811979045626
+    TL6.E = 21.83964362835146
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.4819986111719
+    TL7.Z = 21.95835846802368
+
+SP Optim1[1].SP1[118] <finalmaybe_lib:output_match:schematic>  optIter=118  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[118] <finalmaybe_lib:output_match:schematic>  optIter=118  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[118] <finalmaybe_lib:output_match:schematic>  optIter=118  freq=7.2 GHz
+
+Iteration/Trial #118:
+  CurrentEF: 9.93963041301144
+  Optimization variables:
+    R1.R = 25.73666289854175
+    TL1.E = 24.23022783845843
+    TL1.Z = 22.45012983645856
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753727
+    TL3.E = 112.9833355584783
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213141966
+    TL5.E = 109.2931730668834
+    TL5.Z = 43.93815165046894
+    TL6.E = 21.83964363274
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48185733227165
+    TL7.Z = 21.95838851025478
+
+SP Optim1[1].SP1[119] <finalmaybe_lib:output_match:schematic>  optIter=119  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[119] <finalmaybe_lib:output_match:schematic>  optIter=119  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[119] <finalmaybe_lib:output_match:schematic>  optIter=119  freq=7.2 GHz
+
+Iteration/Trial #119:
+  CurrentEF: 9.93962084786079
+  Optimization variables:
+    R1.R = 25.73666224734151
+    TL1.E = 24.23096473226795
+    TL1.Z = 22.4501298363782
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753715
+    TL3.E = 112.9836170389762
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.5525321314643
+    TL5.E = 109.2935158133917
+    TL5.Z = 43.93811747875768
+    TL6.E = 21.83964363281531
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48171707260184
+    TL7.Z = 21.95838655012049
+
+SP Optim1[1].SP1[120] <finalmaybe_lib:output_match:schematic>  optIter=120  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[120] <finalmaybe_lib:output_match:schematic>  optIter=120  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[120] <finalmaybe_lib:output_match:schematic>  optIter=120  freq=7.2 GHz
+
+Iteration/Trial #120:
+  CurrentEF: 9.93962077715195
+  Optimization variables:
+    R1.R = 25.73666237903129
+    TL1.E = 24.23096075236046
+    TL1.Z = 22.45012983638292
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753715
+    TL3.E = 112.983640236937
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213146408
+    TL5.E = 109.2935686409723
+    TL5.Z = 43.9381108420046
+    TL6.E = 21.83964363283309
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48168204173606
+    TL7.Z = 21.95838619316457
+
+SP Optim1[1].SP1[121] <finalmaybe_lib:output_match:schematic>  optIter=121  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[121] <finalmaybe_lib:output_match:schematic>  optIter=121  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[121] <finalmaybe_lib:output_match:schematic>  optIter=121  freq=7.2 GHz
+
+Iteration/Trial #121:
+  CurrentEF: 9.93961883605668
+  Optimization variables:
+    R1.R = 25.73666294955605
+    TL1.E = 24.23126325561095
+    TL1.Z = 22.45012983636297
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753711
+    TL3.E = 112.9838494505444
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213148308
+    TL5.E = 109.2940177682733
+    TL5.Z = 43.93807171263875
+    TL6.E = 21.83964363289139
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.4816103634124
+    TL7.Z = 21.9583837414572
+
+SP Optim1[1].SP1[122] <finalmaybe_lib:output_match:schematic>  optIter=122  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[122] <finalmaybe_lib:output_match:schematic>  optIter=122  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[122] <finalmaybe_lib:output_match:schematic>  optIter=122  freq=7.2 GHz
+
+Iteration/Trial #122:
+  CurrentEF: 9.93961850746734
+  Optimization variables:
+    R1.R = 25.73666314431448
+    TL1.E = 24.23134493098973
+    TL1.Z = 22.45012983636611
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753711
+    TL3.E = 112.9839362385517
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213148781
+    TL5.E = 109.293987590187
+    TL5.Z = 43.93804998035673
+    TL6.E = 21.83964363295623
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48147858360938
+    TL7.Z = 21.95838265133559
+
+SP Optim1[1].SP1[123] <finalmaybe_lib:output_match:schematic>  optIter=123  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[123] <finalmaybe_lib:output_match:schematic>  optIter=123  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[123] <finalmaybe_lib:output_match:schematic>  optIter=123  freq=7.2 GHz
+
+Iteration/Trial #123:
+  CurrentEF: 9.93961738381712
+  Optimization variables:
+    R1.R = 25.73667795114079
+    TL1.E = 24.23107629679524
+    TL1.Z = 22.45012983677976
+    TL2.E = 179.9843689311682
+    TL2.Z = 20.00001893753759
+    TL3.E = 112.9858592389497
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213147257
+    TL5.E = 109.2939215992781
+    TL5.Z = 43.93743054820889
+    TL6.E = 21.83964363431088
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48130950932797
+    TL7.Z = 21.95834832318745
+
+SP Optim1[1].SP1[124] <finalmaybe_lib:output_match:schematic>  optIter=124  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[124] <finalmaybe_lib:output_match:schematic>  optIter=124  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[124] <finalmaybe_lib:output_match:schematic>  optIter=124  freq=7.2 GHz
+
+Iteration/Trial #124:
+  CurrentEF: 9.93960004998914
+  Optimization variables:
+    R1.R = 25.7368258180443
+    TL1.E = 24.22954374609823
+    TL1.Z = 22.45012984081604
+    TL2.E = 179.9843689311697
+    TL2.Z = 20.00001893754217
+    TL3.E = 113.0055110719302
+    TL4.E = 165.3517335434248
+    TL4.Z = 20.55253213138738
+    TL5.E = 109.2917655933042
+    TL5.Z = 43.93114702318618
+    TL6.E = 21.83964364807138
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48082932892744
+    TL7.Z = 21.95800045233151
+
+SP Optim1[1].SP1[125] <finalmaybe_lib:output_match:schematic>  optIter=125  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[125] <finalmaybe_lib:output_match:schematic>  optIter=125  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[125] <finalmaybe_lib:output_match:schematic>  optIter=125  freq=7.2 GHz
+
+Iteration/Trial #125:
+  CurrentEF: 9.93953163758769
+  Optimization variables:
+    R1.R = 25.99971998096133
+    TL1.E = 24.23056957012792
+    TL1.Z = 22.45012990103951
+    TL2.E = 179.9843689311898
+    TL2.Z = 20.00001893757937
+    TL3.E = 112.9999931264948
+    TL4.E = 165.3517335433366
+    TL4.Z = 20.5525321254243
+    TL5.E = 109.2857516470394
+    TL5.Z = 43.82994315755344
+    TL6.E = 21.83964398297384
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.47764703050976
+    TL7.Z = 21.95205088914366
+
+SP Optim1[1].SP1[126] <finalmaybe_lib:output_match:schematic>  optIter=126  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[126] <finalmaybe_lib:output_match:schematic>  optIter=126  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[126] <finalmaybe_lib:output_match:schematic>  optIter=126  freq=7.2 GHz
+
+Iteration/Trial #126:
+  CurrentEF: 9.93946892575145
+  Optimization variables:
+    R1.R = 25.99971624369945
+    TL1.E = 24.23249848089671
+    TL1.Z = 22.45012990079241
+    TL2.E = 179.9843689311898
+    TL2.Z = 20.000018937579
+    TL3.E = 113.0003264167954
+    TL4.E = 165.3517335433366
+    TL4.Z = 20.55253212553706
+    TL5.E = 109.2854539691064
+    TL5.Z = 43.82991780803751
+    TL6.E = 21.83964398311529
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.47727088247494
+    TL7.Z = 21.95205016238268
+
+SP Optim1[1].SP1[127] <finalmaybe_lib:output_match:schematic>  optIter=127  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[127] <finalmaybe_lib:output_match:schematic>  optIter=127  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[127] <finalmaybe_lib:output_match:schematic>  optIter=127  freq=7.2 GHz
+
+Iteration/Trial #127:
+  CurrentEF: 9.93945237433354
+  Optimization variables:
+    R1.R = 25.99971597416947
+    TL1.E = 24.23252162310403
+    TL1.Z = 22.45012990089996
+    TL2.E = 179.9843689311898
+    TL2.Z = 20.0000189375791
+    TL3.E = 113.0001330073711
+    TL4.E = 165.3517335433366
+    TL4.Z = 20.55253212552485
+    TL5.E = 109.2833045573502
+    TL5.Z = 43.82976850223379
+    TL6.E = 21.83964398400599
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.47500772323632
+    TL7.Z = 21.95204584133649
+
+SP Optim1[1].SP1[128] <finalmaybe_lib:output_match:schematic>  optIter=128  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[128] <finalmaybe_lib:output_match:schematic>  optIter=128  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[128] <finalmaybe_lib:output_match:schematic>  optIter=128  freq=7.2 GHz
+
+Iteration/Trial #128:
+  CurrentEF: 9.93945225422644
+  Optimization variables:
+    R1.R = 25.99972830391674
+    TL1.E = 24.23227563374295
+    TL1.Z = 22.45012990134214
+    TL2.E = 179.9843689311898
+    TL2.Z = 20.00001893757975
+    TL3.E = 113.0029079493951
+    TL4.E = 165.3517335433366
+    TL4.Z = 20.55253212556197
+    TL5.E = 109.2845259876373
+    TL5.Z = 43.82923624851686
+    TL6.E = 21.83964398538916
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.47279979784611
+    TL7.Z = 21.95200735234549
+
+SP Optim1[1].SP1[129] <finalmaybe_lib:output_match:schematic>  optIter=129  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[129] <finalmaybe_lib:output_match:schematic>  optIter=129  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[129] <finalmaybe_lib:output_match:schematic>  optIter=129  freq=7.2 GHz
+
+Iteration/Trial #129:
+  CurrentEF: 9.93935185104983
+  Optimization variables:
+    R1.R = 26.26548795844749
+    TL1.E = 24.21910372081556
+    TL1.Z = 22.45012999651328
+    TL2.E = 179.9843689312215
+    TL2.Z = 20.00001893765255
+    TL3.E = 113.1877170302659
+    TL4.E = 165.3517335432485
+    TL4.Z = 20.55253212322292
+    TL5.E = 109.1776813717858
+    TL5.Z = 43.67430785348348
+    TL6.E = 21.83964441496882
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.49877383012868
+    TL7.Z = 21.94344705677397
+
+SP Optim1[1].SP1[130] <finalmaybe_lib:output_match:schematic>  optIter=130  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[130] <finalmaybe_lib:output_match:schematic>  optIter=130  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[130] <finalmaybe_lib:output_match:schematic>  optIter=130  freq=7.2 GHz
+
+Iteration/Trial #130:
+  CurrentEF: 9.9390244775073
+  Optimization variables:
+    R1.R = 26.31673953183446
+    TL1.E = 24.20311809307063
+    TL1.Z = 22.45013046283835
+    TL2.E = 179.9843689313394
+    TL2.Z = 20.00001893843968
+    TL3.E = 113.4464737212229
+    TL4.E = 165.3517335424551
+    TL4.Z = 20.55253223382285
+    TL5.E = 109.0116015016799
+    TL5.Z = 43.4931986624228
+    TL6.E = 21.83964642082499
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.53776327270075
+    TL7.Z = 21.86335451907473
+
+SP Optim1[1].SP1[131] <finalmaybe_lib:output_match:schematic>  optIter=131  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[131] <finalmaybe_lib:output_match:schematic>  optIter=131  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[131] <finalmaybe_lib:output_match:schematic>  optIter=131  freq=7.2 GHz
+
+Iteration/Trial #131:
+  CurrentEF: 9.9369010706388
+  Optimization variables:
+    R1.R = 26.96049224705011
+    TL1.E = 24.16603612309292
+    TL1.Z = 22.45013535208753
+    TL2.E = 179.9843689325274
+    TL2.Z = 20.00001894741861
+    TL3.E = 114.1808459762484
+    TL4.E = 165.3517335341682
+    TL4.Z = 20.55253351534867
+    TL5.E = 108.439187377257
+    TL5.Z = 42.32788098676983
+    TL6.E = 21.83966732211346
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.59788817332772
+    TL7.Z = 21.07807882954424
+
+SP Optim1[1].SP1[132] <finalmaybe_lib:output_match:schematic>  optIter=132  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[132] <finalmaybe_lib:output_match:schematic>  optIter=132  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[132] <finalmaybe_lib:output_match:schematic>  optIter=132  freq=7.2 GHz
+
+Iteration/Trial #132:
+  CurrentEF: 9.93559188569036
+  Optimization variables:
+    R1.R = 27.56707310091477
+    TL1.E = 24.17280081112623
+    TL1.Z = 22.45013785810855
+    TL2.E = 179.9843689331401
+    TL2.Z = 20.20201914138729
+    TL3.E = 114.1850004834386
+    TL4.E = 165.3517335300248
+    TL4.Z = 20.55253411413275
+    TL5.E = 108.3741531576549
+    TL5.Z = 41.56080098180331
+    TL6.E = 21.83967805747658
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.54384304185588
+    TL7.Z = 20.76074026471931
+
+SP Optim1[1].SP1[133] <finalmaybe_lib:output_match:schematic>  optIter=133  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[133] <finalmaybe_lib:output_match:schematic>  optIter=133  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[133] <finalmaybe_lib:output_match:schematic>  optIter=133  freq=7.2 GHz
+
+Iteration/Trial #133:
+  CurrentEF: 9.93422928073967
+  Optimization variables:
+    R1.R = 28.35869476766961
+    TL1.E = 24.17815588669398
+    TL1.Z = 22.4501416776117
+    TL2.E = 179.9843689340692
+    TL2.Z = 20.06844386204261
+    TL3.E = 114.2340026538271
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538437515
+    TL5.E = 108.2876768217084
+    TL5.Z = 40.87409875412863
+    TL6.E = 21.83969368395118
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.49239734929951
+    TL7.Z = 20.29097722071646
+
+SP Optim1[1].SP1[134] <finalmaybe_lib:output_match:schematic>  optIter=134  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[134] <finalmaybe_lib:output_match:schematic>  optIter=134  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[134] <finalmaybe_lib:output_match:schematic>  optIter=134  freq=7.2 GHz
+
+Iteration/Trial #134:
+  CurrentEF: 9.93409668511308
+  Optimization variables:
+    R1.R = 28.07722986707482
+    TL1.E = 24.17985932637326
+    TL1.Z = 22.45014167738428
+    TL2.E = 179.9843689340692
+    TL2.Z = 20.27112829937615
+    TL3.E = 114.2332389706127
+    TL4.E = 165.351733522884
+    TL4.Z = 20.5525353843897
+    TL5.E = 108.2853481926866
+    TL5.Z = 40.87384821245636
+    TL6.E = 21.83969368448262
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.49035388638709
+    TL7.Z = 20.29098066078609
+
+SP Optim1[1].SP1[135] <finalmaybe_lib:output_match:schematic>  optIter=135  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[135] <finalmaybe_lib:output_match:schematic>  optIter=135  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[135] <finalmaybe_lib:output_match:schematic>  optIter=135  freq=7.2 GHz
+
+Iteration/Trial #135:
+  CurrentEF: 9.93405974278292
+  Optimization variables:
+    R1.R = 28.0771830912911
+    TL1.E = 24.17905454068414
+    TL1.Z = 22.45014167753219
+    TL2.E = 179.9843689340692
+    TL2.Z = 20.4758395870084
+    TL3.E = 114.2313267433975
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538420397
+    TL5.E = 108.2815606072709
+    TL5.Z = 40.87340931088495
+    TL6.E = 21.83969368543509
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.48698927463804
+    TL7.Z = 20.29098571328215
+
+SP Optim1[1].SP1[136] <finalmaybe_lib:output_match:schematic>  optIter=136  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[136] <finalmaybe_lib:output_match:schematic>  optIter=136  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[136] <finalmaybe_lib:output_match:schematic>  optIter=136  freq=7.2 GHz
+
+Iteration/Trial #136:
+  CurrentEF: 9.93392564517819
+  Optimization variables:
+    R1.R = 28.075617976737
+    TL1.E = 24.17520462587579
+    TL1.Z = 22.45014168189685
+    TL2.E = 179.9843689340706
+    TL2.Z = 20.68259871957614
+    TL3.E = 114.2515633325234
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538051896
+    TL5.E = 108.310996263423
+    TL5.Z = 40.85238976355991
+    TL6.E = 21.83969369623317
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.44996234605489
+    TL7.Z = 20.29107388713491
+
+SP Optim1[1].SP1[137] <finalmaybe_lib:output_match:schematic>  optIter=137  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[137] <finalmaybe_lib:output_match:schematic>  optIter=137  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[137] <finalmaybe_lib:output_match:schematic>  optIter=137  freq=7.2 GHz
+
+Iteration/Trial #137:
+  CurrentEF: 9.93390936675098
+  Optimization variables:
+    R1.R = 28.07642232499647
+    TL1.E = 24.17613649376538
+    TL1.Z = 22.45014168954185
+    TL2.E = 179.9843689340721
+    TL2.Z = 20.89142578099548
+    TL3.E = 114.2376356773912
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538371954
+    TL5.E = 108.3226813840959
+    TL5.Z = 40.85271723059677
+    TL6.E = 21.83969372330033
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.44453138338704
+    TL7.Z = 20.29080292704063
+
+SP Optim1[1].SP1[138] <finalmaybe_lib:output_match:schematic>  optIter=138  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[138] <finalmaybe_lib:output_match:schematic>  optIter=138  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[138] <finalmaybe_lib:output_match:schematic>  optIter=138  freq=7.2 GHz
+
+Iteration/Trial #138:
+  CurrentEF: 9.93390439182905
+  Optimization variables:
+    R1.R = 28.07683186482994
+    TL1.E = 24.17620648116473
+    TL1.Z = 22.45014169304746
+    TL2.E = 179.9843689340721
+    TL2.Z = 21.10234263159983
+    TL3.E = 114.2362383452574
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538568287
+    TL5.E = 108.3255714755639
+    TL5.Z = 40.85410237098401
+    TL6.E = 21.83969373514406
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.44231393896855
+    TL7.Z = 20.29068019770506
+
+SP Optim1[1].SP1[139] <finalmaybe_lib:output_match:schematic>  optIter=139  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[139] <finalmaybe_lib:output_match:schematic>  optIter=139  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[139] <finalmaybe_lib:output_match:schematic>  optIter=139  freq=7.2 GHz
+
+Iteration/Trial #139:
+  CurrentEF: 9.93389908814581
+  Optimization variables:
+    R1.R = 28.07735711164906
+    TL1.E = 24.17631283449718
+    TL1.Z = 22.4501416972608
+    TL2.E = 179.9843689340721
+    TL2.Z = 21.31537635552951
+    TL3.E = 114.2344163536334
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538777252
+    TL5.E = 108.3287732530355
+    TL5.Z = 40.85546763374396
+    TL6.E = 21.83969374973811
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43997677176072
+    TL7.Z = 20.29053370025583
+
+SP Optim1[1].SP1[140] <finalmaybe_lib:output_match:schematic>  optIter=140  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[140] <finalmaybe_lib:output_match:schematic>  optIter=140  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[140] <finalmaybe_lib:output_match:schematic>  optIter=140  freq=7.2 GHz
+
+Iteration/Trial #140:
+  CurrentEF: 9.93389639330626
+  Optimization variables:
+    R1.R = 28.07752005366423
+    TL1.E = 24.17634397254409
+    TL1.Z = 22.45014169854216
+    TL2.E = 179.9843689340721
+    TL2.Z = 21.5305331280975
+    TL3.E = 114.233893554746
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538837792
+    TL5.E = 108.3296896984196
+    TL5.Z = 40.85585210590516
+    TL6.E = 21.83969375421234
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43930753415387
+    TL7.Z = 20.29048956895955
+
+SP Optim1[1].SP1[141] <finalmaybe_lib:output_match:schematic>  optIter=141  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[141] <finalmaybe_lib:output_match:schematic>  optIter=141  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[141] <finalmaybe_lib:output_match:schematic>  optIter=141  freq=7.2 GHz
+
+Iteration/Trial #141:
+  CurrentEF: 9.93388896497201
+  Optimization variables:
+    R1.R = 28.07752414231837
+    TL1.E = 24.17574324082712
+    TL1.Z = 22.45014169865366
+    TL2.E = 179.9843689340721
+    TL2.Z = 21.74783847156634
+    TL3.E = 114.2338597119117
+    TL4.E = 165.351733522884
+    TL4.Z = 20.552535388354
+    TL5.E = 108.3299482882536
+    TL5.Z = 40.85584298228481
+    TL6.E = 21.83969375426776
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43940706415964
+    TL7.Z = 20.29048859330941
+
+SP Optim1[1].SP1[142] <finalmaybe_lib:output_match:schematic>  optIter=142  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[142] <finalmaybe_lib:output_match:schematic>  optIter=142  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[142] <finalmaybe_lib:output_match:schematic>  optIter=142  freq=7.2 GHz
+
+Iteration/Trial #142:
+  CurrentEF: 9.93388572635353
+  Optimization variables:
+    R1.R = 28.07754994376582
+    TL1.E = 24.17574301716926
+    TL1.Z = 22.45014169893821
+    TL2.E = 179.9843689340721
+    TL2.Z = 21.96731690555669
+    TL3.E = 114.2345106390511
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538846917
+    TL5.E = 108.3323859479133
+    TL5.Z = 40.85575919282583
+    TL6.E = 21.83969375485739
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.44020797835155
+    TL7.Z = 20.29047897810703
+
+SP Optim1[1].SP1[143] <finalmaybe_lib:output_match:schematic>  optIter=143  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[143] <finalmaybe_lib:output_match:schematic>  optIter=143  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[143] <finalmaybe_lib:output_match:schematic>  optIter=143  freq=7.2 GHz
+
+Iteration/Trial #143:
+  CurrentEF: 9.93387671298504
+  Optimization variables:
+    R1.R = 28.077904167832
+    TL1.E = 24.1761088674573
+    TL1.Z = 22.45014170309019
+    TL2.E = 179.9843689340735
+    TL2.Z = 22.18899088618259
+    TL3.E = 114.228570074871
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253538999863
+    TL5.E = 108.339452636151
+    TL5.Z = 40.85504414102211
+    TL6.E = 21.83969376935993
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43569128085014
+    TL7.Z = 20.29034308711194
+
+SP Optim1[1].SP1[144] <finalmaybe_lib:output_match:schematic>  optIter=144  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[144] <finalmaybe_lib:output_match:schematic>  optIter=144  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[144] <finalmaybe_lib:output_match:schematic>  optIter=144  freq=7.2 GHz
+
+Iteration/Trial #144:
+  CurrentEF: 9.93387508152735
+  Optimization variables:
+    R1.R = 28.07796482401583
+    TL1.E = 24.17616904886987
+    TL1.Z = 22.45014170361474
+    TL2.E = 179.9843689340735
+    TL2.Z = 22.4128809283777
+    TL3.E = 114.227696218042
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253539024124
+    TL5.E = 108.3401345148908
+    TL5.Z = 40.85514031880867
+    TL6.E = 21.83969377120908
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43540692986192
+    TL7.Z = 20.29032414653983
+
+SP Optim1[1].SP1[145] <finalmaybe_lib:output_match:schematic>  optIter=145  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[145] <finalmaybe_lib:output_match:schematic>  optIter=145  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[145] <finalmaybe_lib:output_match:schematic>  optIter=145  freq=7.2 GHz
+
+Iteration/Trial #145:
+  CurrentEF: 9.93387469193525
+  Optimization variables:
+    R1.R = 28.07796749240737
+    TL1.E = 24.1760239757973
+    TL1.Z = 22.45014170366148
+    TL2.E = 179.9843689340735
+    TL2.Z = 22.63900974612664
+    TL3.E = 114.2275846442738
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253539024206
+    TL5.E = 108.3401081498644
+    TL5.Z = 40.85513879743784
+    TL6.E = 21.83969377131844
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43533439672943
+    TL7.Z = 20.29032328563376
+
+SP Optim1[1].SP1[146] <finalmaybe_lib:output_match:schematic>  optIter=146  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[146] <finalmaybe_lib:output_match:schematic>  optIter=146  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[146] <finalmaybe_lib:output_match:schematic>  optIter=146  freq=7.2 GHz
+
+Iteration/Trial #146:
+  CurrentEF: 9.93387443543783
+  Optimization variables:
+    R1.R = 28.07796974082613
+    TL1.E = 24.17591818687946
+    TL1.Z = 22.45014170369744
+    TL2.E = 179.9843689340735
+    TL2.Z = 22.86739985021706
+    TL3.E = 114.2275101244827
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253539024338
+    TL5.E = 108.3401554759077
+    TL5.Z = 40.85513547003271
+    TL6.E = 21.83969377139674
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43532906253032
+    TL7.Z = 20.29032257723069
+
+SP Optim1[1].SP1[147] <finalmaybe_lib:output_match:schematic>  optIter=147  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[147] <finalmaybe_lib:output_match:schematic>  optIter=147  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[147] <finalmaybe_lib:output_match:schematic>  optIter=147  freq=7.2 GHz
+
+Iteration/Trial #147:
+  CurrentEF: 9.93387407106863
+  Optimization variables:
+    R1.R = 28.07795844702408
+    TL1.E = 24.17588671209062
+    TL1.Z = 22.45014170357687
+    TL2.E = 179.9843689340735
+    TL2.Z = 23.09807382496532
+    TL3.E = 114.227838516562
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253539019719
+    TL5.E = 108.3400000517315
+    TL5.Z = 40.85515189143327
+    TL6.E = 21.83969377092965
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43541003990943
+    TL7.Z = 20.29032667876196
+
+SP Optim1[1].SP1[148] <finalmaybe_lib:output_match:schematic>  optIter=148  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[148] <finalmaybe_lib:output_match:schematic>  optIter=148  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[148] <finalmaybe_lib:output_match:schematic>  optIter=148  freq=7.2 GHz
+
+Iteration/Trial #148:
+  CurrentEF: 9.93387145050934
+  Optimization variables:
+    R1.R = 28.07813952030908
+    TL1.E = 24.17632249412633
+    TL1.Z = 22.4501417055211
+    TL2.E = 179.9843689340735
+    TL2.Z = 23.09807421720223
+    TL3.E = 114.2224370045835
+    TL4.E = 165.351733522884
+    TL4.Z = 20.55253539093432
+    TL5.E = 108.3405229860104
+    TL5.Z = 40.85489963143253
+    TL6.E = 21.83969377838206
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.43559613128942
+    TL7.Z = 20.29026096190285
+
+SP Optim1[1].SP1[149] <finalmaybe_lib:output_match:schematic>  optIter=149  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[149] <finalmaybe_lib:output_match:schematic>  optIter=149  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[149] <finalmaybe_lib:output_match:schematic>  optIter=149  freq=7.2 GHz
+
+Iteration/Trial #149:
+  CurrentEF: 9.93367578626658
+  Optimization variables:
+    R1.R = 28.22777471335727
+    TL1.E = 24.17712455611795
+    TL1.Z = 22.45014363065521
+    TL2.E = 179.9843689344475
+    TL2.Z = 22.87358986141134
+    TL3.E = 114.2388237006961
+    TL4.E = 165.3517335189169
+    TL4.Z = 20.55253613726086
+    TL5.E = 108.3211174887171
+    TL5.Z = 40.68563507516537
+    TL6.E = 21.83969988525096
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.42450267206148
+    TL7.Z = 20.23257574415761
+
+SP Optim1[1].SP1[150] <finalmaybe_lib:output_match:schematic>  optIter=150  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[150] <finalmaybe_lib:output_match:schematic>  optIter=150  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[150] <finalmaybe_lib:output_match:schematic>  optIter=150  freq=7.2 GHz
+
+Iteration/Trial #150:
+  CurrentEF: 9.93360879319637
+  Optimization variables:
+    R1.R = 28.29032137811155
+    TL1.E = 24.17763841909874
+    TL1.Z = 22.45014438796539
+    TL2.E = 179.9843689345927
+    TL2.Z = 22.65155881191038
+    TL3.E = 114.2436127388028
+    TL4.E = 165.3517335173301
+    TL4.Z = 20.55253644329509
+    TL5.E = 108.316358410564
+    TL5.Z = 40.66108139680022
+    TL6.E = 21.83970228074551
+    TL6.Z = 25.42152770552752
+    TL7.E = 28.4216320530914
+    TL7.Z = 20.21182975405403
+
+SP Optim1[1].SP1[151] <finalmaybe_lib:output_match:schematic>  optIter=151  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[151] <finalmaybe_lib:output_match:schematic>  optIter=151  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[151] <finalmaybe_lib:output_match:schematic>  optIter=151  freq=7.2 GHz
+
+Iteration/Trial #151:
+  CurrentEF: 9.93341513814303
+  Optimization variables:
+    R1.R = 28.86232401211261
+    TL1.E = 24.1803404336706
+    TL1.Z = 22.45014782855279
+    TL2.E = 179.9843689352744
+    TL2.Z = 22.43276357226492
+    TL3.E = 114.2678155878717
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787103106
+    TL5.E = 108.2899304838465
+    TL5.Z = 40.46584440335612
+    TL6.E = 21.83971300219817
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40904206369646
+    TL7.Z = 20.15823655920644
+
+SP Optim1[1].SP1[152] <finalmaybe_lib:output_match:schematic>  optIter=152  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[152] <finalmaybe_lib:output_match:schematic>  optIter=152  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[152] <finalmaybe_lib:output_match:schematic>  optIter=152  freq=7.2 GHz
+
+Iteration/Trial #152:
+  CurrentEF: 9.93333971780826
+  Optimization variables:
+    R1.R = 28.86231508992363
+    TL1.E = 24.18246592915683
+    TL1.Z = 22.45014782827966
+    TL2.E = 179.9843689352744
+    TL2.Z = 22.21615442554323
+    TL3.E = 114.2680622239189
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787115492
+    TL5.E = 108.2896956858033
+    TL5.Z = 40.46580962431681
+    TL6.E = 21.83971300232437
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40873699175012
+    TL7.Z = 20.1582365097298
+
+SP Optim1[1].SP1[153] <finalmaybe_lib:output_match:schematic>  optIter=153  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[153] <finalmaybe_lib:output_match:schematic>  optIter=153  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[153] <finalmaybe_lib:output_match:schematic>  optIter=153  freq=7.2 GHz
+
+Iteration/Trial #153:
+  CurrentEF: 9.93333131094568
+  Optimization variables:
+    R1.R = 28.86230381156138
+    TL1.E = 24.18251537418973
+    TL1.Z = 22.45014782833062
+    TL2.E = 179.9843689352744
+    TL2.Z = 22.00245411627422
+    TL3.E = 114.2675754368741
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787114788
+    TL5.E = 108.2887777088863
+    TL5.Z = 40.46569852660812
+    TL6.E = 21.83971300272393
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40781458267142
+    TL7.Z = 20.15823643685056
+
+SP Optim1[1].SP1[154] <finalmaybe_lib:output_match:schematic>  optIter=154  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[154] <finalmaybe_lib:output_match:schematic>  optIter=154  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[154] <finalmaybe_lib:output_match:schematic>  optIter=154  freq=7.2 GHz
+
+Iteration/Trial #154:
+  CurrentEF: 9.93332489376429
+  Optimization variables:
+    R1.R = 28.86225222215427
+    TL1.E = 24.18244467168126
+    TL1.Z = 22.4501478287305
+    TL2.E = 179.9843689352744
+    TL2.Z = 21.7917741944024
+    TL3.E = 114.2681810302017
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787115322
+    TL5.E = 108.290106103887
+    TL5.Z = 40.46494128699942
+    TL6.E = 21.83971300391757
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40612553035209
+    TL7.Z = 20.15823416661276
+
+SP Optim1[1].SP1[155] <finalmaybe_lib:output_match:schematic>  optIter=155  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[155] <finalmaybe_lib:output_match:schematic>  optIter=155  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[155] <finalmaybe_lib:output_match:schematic>  optIter=155  freq=7.2 GHz
+
+Iteration/Trial #155:
+  CurrentEF: 9.93331629479743
+  Optimization variables:
+    R1.R = 28.8626781337987
+    TL1.E = 24.18292166186545
+    TL1.Z = 22.45014783377322
+    TL2.E = 179.9843689352744
+    TL2.Z = 21.58427232744216
+    TL3.E = 114.2609542420941
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787365373
+    TL5.E = 108.2967875314336
+    TL5.Z = 40.46555576251021
+    TL6.E = 21.83971302083077
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40272295502084
+    TL7.Z = 20.15814109687668
+
+SP Optim1[1].SP1[156] <finalmaybe_lib:output_match:schematic>  optIter=156  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[156] <finalmaybe_lib:output_match:schematic>  optIter=156  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[156] <finalmaybe_lib:output_match:schematic>  optIter=156  freq=7.2 GHz
+
+Iteration/Trial #156:
+  CurrentEF: 9.93331459779176
+  Optimization variables:
+    R1.R = 28.86275527988374
+    TL1.E = 24.18293518582074
+    TL1.Z = 22.45014783459214
+    TL2.E = 179.9843689352744
+    TL2.Z = 21.38015510413274
+    TL3.E = 114.2606510231499
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787413902
+    TL5.E = 108.2974176327306
+    TL5.Z = 40.46585428787721
+    TL6.E = 21.83971302351082
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40223576354497
+    TL7.Z = 20.15812598719083
+
+SP Optim1[1].SP1[157] <finalmaybe_lib:output_match:schematic>  optIter=157  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[157] <finalmaybe_lib:output_match:schematic>  optIter=157  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[157] <finalmaybe_lib:output_match:schematic>  optIter=157  freq=7.2 GHz
+
+Iteration/Trial #157:
+  CurrentEF: 9.93330971189483
+  Optimization variables:
+    R1.R = 28.86275045167218
+    TL1.E = 24.18364346525344
+    TL1.Z = 22.4501478345154
+    TL2.E = 179.9843689352744
+    TL2.Z = 21.17973037360582
+    TL3.E = 114.2607118847794
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787418052
+    TL5.E = 108.2974391035342
+    TL5.Z = 40.46581787847335
+    TL6.E = 21.83971302361238
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40203009555863
+    TL7.Z = 20.15812589027114
+
+SP Optim1[1].SP1[158] <finalmaybe_lib:output_match:schematic>  optIter=158  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[158] <finalmaybe_lib:output_match:schematic>  optIter=158  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[158] <finalmaybe_lib:output_match:schematic>  optIter=158  freq=7.2 GHz
+
+Iteration/Trial #158:
+  CurrentEF: 9.93330592647168
+  Optimization variables:
+    R1.R = 28.86274835706248
+    TL1.E = 24.18398796193561
+    TL1.Z = 22.45014783447934
+    TL2.E = 179.9843689352744
+    TL2.Z = 20.98344808095681
+    TL3.E = 114.2607605676322
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787420102
+    TL5.E = 108.297554161537
+    TL5.Z = 40.4657949847254
+    TL6.E = 21.83971302364911
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40204204919406
+    TL7.Z = 20.15812580819059
+
+SP Optim1[1].SP1[159] <finalmaybe_lib:output_match:schematic>  optIter=159  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[159] <finalmaybe_lib:output_match:schematic>  optIter=159  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[159] <finalmaybe_lib:output_match:schematic>  optIter=159  freq=7.2 GHz
+
+Iteration/Trial #159:
+  CurrentEF: 9.93330578968198
+  Optimization variables:
+    R1.R = 28.86275485563466
+    TL1.E = 24.18386061949985
+    TL1.Z = 22.45014783444048
+    TL2.E = 179.9843689352744
+    TL2.Z = 20.7919944146209
+    TL3.E = 114.2608309237261
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787419418
+    TL5.E = 108.2967827644921
+    TL5.Z = 40.46591162998148
+    TL6.E = 21.83971302343627
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.402398050576
+    TL7.Z = 20.15812620415747
+
+SP Optim1[1].SP1[160] <finalmaybe_lib:output_match:schematic>  optIter=160  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[160] <finalmaybe_lib:output_match:schematic>  optIter=160  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[160] <finalmaybe_lib:output_match:schematic>  optIter=160  freq=7.2 GHz
+
+Iteration/Trial #160:
+  CurrentEF: 9.93330077555602
+  Optimization variables:
+    R1.R = 28.86261162350554
+    TL1.E = 24.18462696273654
+    TL1.Z = 22.45014783551686
+    TL2.E = 179.9843689352744
+    TL2.Z = 21.00191438944542
+    TL3.E = 114.2536029954108
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787415117
+    TL5.E = 108.2985359685444
+    TL5.Z = 40.46353753750851
+    TL6.E = 21.83971302905788
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.4020558246314
+    TL7.Z = 20.15811922449743
+
+SP Optim1[1].SP1[161] <finalmaybe_lib:output_match:schematic>  optIter=161  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[161] <finalmaybe_lib:output_match:schematic>  optIter=161  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[161] <finalmaybe_lib:output_match:schematic>  optIter=161  freq=7.2 GHz
+
+Iteration/Trial #161:
+  CurrentEF: 9.93326199252103
+  Optimization variables:
+    R1.R = 28.85982364989791
+    TL1.E = 24.18423415122989
+    TL1.Z = 22.45014785732929
+    TL2.E = 179.9843689352802
+    TL2.Z = 21.21393458425083
+    TL3.E = 114.2584826224967
+    TL4.E = 165.3517335101012
+    TL4.Z = 20.55253787571801
+    TL5.E = 108.2948036318345
+    TL5.Z = 40.42881742962633
+    TL6.E = 21.8397131020212
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.40109321441226
+    TL7.Z = 20.1579948105265
+
+SP Optim1[1].SP1[162] <finalmaybe_lib:output_match:schematic>  optIter=162  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[162] <finalmaybe_lib:output_match:schematic>  optIter=162  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[162] <finalmaybe_lib:output_match:schematic>  optIter=162  freq=7.2 GHz
+
+Iteration/Trial #162:
+  CurrentEF: 9.93318873776355
+  Optimization variables:
+    R1.R = 28.9148560972674
+    TL1.E = 24.18911980056208
+    TL1.Z = 22.45014988522507
+    TL2.E = 179.9843689357131
+    TL2.Z = 21.42826048537221
+    TL3.E = 114.2348631023709
+    TL4.E = 165.3517335056052
+    TL4.Z = 20.55253881378847
+    TL5.E = 108.3021703273851
+    TL5.Z = 40.33923484501182
+    TL6.E = 21.83971962218417
+    TL6.Z = 25.42152770539138
+    TL7.E = 28.39075882281769
+    TL7.Z = 20.12944754765837
+
+SP Optim1[1].SP1[163] <finalmaybe_lib:output_match:schematic>  optIter=163  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[163] <finalmaybe_lib:output_match:schematic>  optIter=163  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[163] <finalmaybe_lib:output_match:schematic>  optIter=163  freq=7.2 GHz
+
+Iteration/Trial #163:
+  CurrentEF: 9.93302797844095
+  Optimization variables:
+    R1.R = 29.34362960290544
+    TL1.E = 24.19246315538079
+    TL1.Z = 22.4501544168985
+    TL2.E = 179.9843689366609
+    TL2.Z = 21.22743061265475
+    TL3.E = 114.21839485325
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095880549
+    TL5.E = 108.3027051921899
+    TL5.Z = 40.2117294755573
+    TL6.E = 21.83973406522224
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.3776848592229
+    TL7.Z = 20.08942514889461
+
+SP Optim1[1].SP1[164] <finalmaybe_lib:output_match:schematic>  optIter=164  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[164] <finalmaybe_lib:output_match:schematic>  optIter=164  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[164] <finalmaybe_lib:output_match:schematic>  optIter=164  freq=7.2 GHz
+
+Iteration/Trial #164:
+  CurrentEF: 9.93301488665709
+  Optimization variables:
+    R1.R = 29.34362233424259
+    TL1.E = 24.19332719126452
+    TL1.Z = 22.4501544168009
+    TL2.E = 179.9843689366609
+    TL2.Z = 21.03010357656474
+    TL3.E = 114.2185727626335
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095885689
+    TL5.E = 108.3026958600405
+    TL5.Z = 40.21168152883644
+    TL6.E = 21.83973406530199
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.3774999384843
+    TL7.Z = 20.08942513925856
+
+SP Optim1[1].SP1[165] <finalmaybe_lib:output_match:schematic>  optIter=165  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[165] <finalmaybe_lib:output_match:schematic>  optIter=165  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[165] <finalmaybe_lib:output_match:schematic>  optIter=165  freq=7.2 GHz
+
+Iteration/Trial #165:
+  CurrentEF: 9.93300774046951
+  Optimization variables:
+    R1.R = 29.34353795097738
+    TL1.E = 24.19333755848909
+    TL1.Z = 22.45015441715061
+    TL2.E = 179.9843689366609
+    TL2.Z = 20.83741140979246
+    TL3.E = 114.2186971331946
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095885191
+    TL5.E = 108.3019565290189
+    TL5.Z = 40.21087423243161
+    TL6.E = 21.83973406668722
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37436788708216
+    TL7.Z = 20.08942509365327
+
+SP Optim1[1].SP1[166] <finalmaybe_lib:output_match:schematic>  optIter=166  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[166] <finalmaybe_lib:output_match:schematic>  optIter=166  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[166] <finalmaybe_lib:output_match:schematic>  optIter=166  freq=7.2 GHz
+
+Iteration/Trial #166:
+  CurrentEF: 9.93300407608246
+  Optimization variables:
+    R1.R = 29.34350158229554
+    TL1.E = 24.19328200069361
+    TL1.Z = 22.45015441732992
+    TL2.E = 179.9843689366609
+    TL2.Z = 20.65033538426422
+    TL3.E = 114.2192484648181
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095885735
+    TL5.E = 108.3025899374646
+    TL5.Z = 40.21048846885544
+    TL6.E = 21.83973406716682
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37346144570072
+    TL7.Z = 20.08942489238271
+
+SP Optim1[1].SP1[167] <finalmaybe_lib:output_match:schematic>  optIter=167  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[167] <finalmaybe_lib:output_match:schematic>  optIter=167  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[167] <finalmaybe_lib:output_match:schematic>  optIter=167  freq=7.2 GHz
+
+Iteration/Trial #167:
+  CurrentEF: 9.93300373075049
+  Optimization variables:
+    R1.R = 29.34352630867473
+    TL1.E = 24.19329822658926
+    TL1.Z = 22.45015441764831
+    TL2.E = 179.9843689366609
+    TL2.Z = 20.47054586719364
+    TL3.E = 114.2189756245009
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.5525409590443
+    TL5.E = 108.3029261099279
+    TL5.Z = 40.21057798653312
+    TL6.E = 21.8397340681902
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37325072894059
+    TL7.Z = 20.08942160587183
+
+SP Optim1[1].SP1[168] <finalmaybe_lib:output_match:schematic>  optIter=168  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[168] <finalmaybe_lib:output_match:schematic>  optIter=168  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[168] <finalmaybe_lib:output_match:schematic>  optIter=168  freq=7.2 GHz
+
+Iteration/Trial #168:
+  CurrentEF: 9.93300045686215
+  Optimization variables:
+    R1.R = 29.3435226874922
+    TL1.E = 24.19352732916889
+    TL1.Z = 22.45015441764285
+    TL2.E = 179.9843689366609
+    TL2.Z = 20.67725132558547
+    TL3.E = 114.2192568377584
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095906254
+    TL5.E = 108.3037840408776
+    TL5.Z = 40.21051384824091
+    TL6.E = 21.83973406818411
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37339561657322
+    TL7.Z = 20.08942148155661
+
+SP Optim1[1].SP1[169] <finalmaybe_lib:output_match:schematic>  optIter=169  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[169] <finalmaybe_lib:output_match:schematic>  optIter=169  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[169] <finalmaybe_lib:output_match:schematic>  optIter=169  freq=7.2 GHz
+
+Iteration/Trial #169:
+  CurrentEF: 9.93299871627476
+  Optimization variables:
+    R1.R = 29.34350726569988
+    TL1.E = 24.19381681832081
+    TL1.Z = 22.45015441767512
+    TL2.E = 179.9843689366609
+    TL2.Z = 20.88602384057419
+    TL3.E = 114.2195742217575
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095908642
+    TL5.E = 108.3038232074415
+    TL5.Z = 40.210367332064
+    TL6.E = 21.83973406838286
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37301671844007
+    TL7.Z = 20.08942137536551
+
+SP Optim1[1].SP1[170] <finalmaybe_lib:output_match:schematic>  optIter=170  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[170] <finalmaybe_lib:output_match:schematic>  optIter=170  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[170] <finalmaybe_lib:output_match:schematic>  optIter=170  freq=7.2 GHz
+
+Iteration/Trial #170:
+  CurrentEF: 9.93299802282133
+  Optimization variables:
+    R1.R = 29.34349529549561
+    TL1.E = 24.19379314298016
+    TL1.Z = 22.45015441773893
+    TL2.E = 179.9843689366609
+    TL2.Z = 21.09688408270304
+    TL3.E = 114.219809614264
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095909094
+    TL5.E = 108.3039348706804
+    TL5.Z = 40.21024346563527
+    TL6.E = 21.83973406854066
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37273364765181
+    TL7.Z = 20.08942127663425
+
+SP Optim1[1].SP1[171] <finalmaybe_lib:output_match:schematic>  optIter=171  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[171] <finalmaybe_lib:output_match:schematic>  optIter=171  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[171] <finalmaybe_lib:output_match:schematic>  optIter=171  freq=7.2 GHz
+
+Iteration/Trial #171:
+  CurrentEF: 9.9329817425842
+  Optimization variables:
+    R1.R = 29.34174281810662
+    TL1.E = 24.19175226748823
+    TL1.Z = 22.45015442712995
+    TL2.E = 179.9843689366638
+    TL2.Z = 21.30985341965394
+    TL3.E = 114.248750742041
+    TL4.E = 165.3517334953789
+    TL4.Z = 20.55254095974798
+    TL5.E = 108.2977583056976
+    TL5.Z = 40.19099900096511
+    TL6.E = 21.83973409066106
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.37260280534173
+    TL7.Z = 20.08940505606625
+
+SP Optim1[1].SP1[172] <finalmaybe_lib:output_match:schematic>  optIter=172  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[172] <finalmaybe_lib:output_match:schematic>  optIter=172  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[172] <finalmaybe_lib:output_match:schematic>  optIter=172  freq=7.2 GHz
+
+Iteration/Trial #172:
+  CurrentEF: 9.93286556262778
+  Optimization variables:
+    R1.R = 29.33562975460369
+    TL1.E = 24.19255430595415
+    TL1.Z = 22.45015446595271
+    TL2.E = 179.9843689366767
+    TL2.Z = 21.52495425392035
+    TL3.E = 114.2342414058129
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096350153
+    TL5.E = 108.2964653340611
+    TL5.Z = 40.11579085654841
+    TL6.E = 21.83973421629979
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36899234723098
+    TL7.Z = 20.00323239337132
+
+SP Optim1[1].SP1[173] <finalmaybe_lib:output_match:schematic>  optIter=173  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[173] <finalmaybe_lib:output_match:schematic>  optIter=173  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[173] <finalmaybe_lib:output_match:schematic>  optIter=173  freq=7.2 GHz
+
+Iteration/Trial #173:
+  CurrentEF: 9.93281005032926
+  Optimization variables:
+    R1.R = 29.33560585832629
+    TL1.E = 24.19236377014835
+    TL1.Z = 22.45015446601207
+    TL2.E = 179.9843689366767
+    TL2.Z = 21.32186637128593
+    TL3.E = 114.2326900215454
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096345044
+    TL5.E = 108.2933756548172
+    TL5.Z = 40.11566853173711
+    TL6.E = 21.83973421702939
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36677888728387
+    TL7.Z = 20.00323241537608
+
+SP Optim1[1].SP1[174] <finalmaybe_lib:output_match:schematic>  optIter=174  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[174] <finalmaybe_lib:output_match:schematic>  optIter=174  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[174] <finalmaybe_lib:output_match:schematic>  optIter=174  freq=7.2 GHz
+
+Iteration/Trial #174:
+  CurrentEF: 9.93280489812417
+  Optimization variables:
+    R1.R = 29.33558066400595
+    TL1.E = 24.19351080000931
+    TL1.Z = 22.45015446592092
+    TL2.E = 179.9843689366767
+    TL2.Z = 21.53708502517431
+    TL3.E = 114.2328661981458
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096350533
+    TL5.E = 108.2930587070445
+    TL5.Z = 40.11546936231068
+    TL6.E = 21.83973421733306
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36595154735816
+    TL7.Z = 20.0032324221451
+
+SP Optim1[1].SP1[175] <finalmaybe_lib:output_match:schematic>  optIter=175  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[175] <finalmaybe_lib:output_match:schematic>  optIter=175  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[175] <finalmaybe_lib:output_match:schematic>  optIter=175  freq=7.2 GHz
+
+Iteration/Trial #175:
+  CurrentEF: 9.93279272784481
+  Optimization variables:
+    R1.R = 29.3354669788117
+    TL1.E = 24.19335004774052
+    TL1.Z = 22.45015446633513
+    TL2.E = 179.9843689366767
+    TL2.Z = 21.75445590824599
+    TL3.E = 114.2344883022854
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096345715
+    TL5.E = 108.2947097769607
+    TL5.Z = 40.11431805538962
+    TL6.E = 21.83973421839965
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36339895980299
+    TL7.Z = 20.00323244004602
+
+SP Optim1[1].SP1[176] <finalmaybe_lib:output_match:schematic>  optIter=176  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[176] <finalmaybe_lib:output_match:schematic>  optIter=176  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[176] <finalmaybe_lib:output_match:schematic>  optIter=176  freq=7.2 GHz
+
+Iteration/Trial #176:
+  CurrentEF: 9.93279010491812
+  Optimization variables:
+    R1.R = 29.33558133490916
+    TL1.E = 24.19346238126198
+    TL1.Z = 22.45015446794712
+    TL2.E = 179.9843689366767
+    TL2.Z = 21.97400129534302
+    TL3.E = 114.2327774538891
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096434896
+    TL5.E = 108.2964585226248
+    TL5.Z = 40.11460856847781
+    TL6.E = 21.83973422359079
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36243116613597
+    TL7.Z = 20.00323184739565
+
+SP Optim1[1].SP1[177] <finalmaybe_lib:output_match:schematic>  optIter=177  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[177] <finalmaybe_lib:output_match:schematic>  optIter=177  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[177] <finalmaybe_lib:output_match:schematic>  optIter=177  freq=7.2 GHz
+
+Iteration/Trial #177:
+  CurrentEF: 9.93278861865723
+  Optimization variables:
+    R1.R = 29.33563314681264
+    TL1.E = 24.19350483312959
+    TL1.Z = 22.45015446866385
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.19574189342008
+    TL3.E = 114.2321343078549
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096474872
+    TL5.E = 108.2971685767168
+    TL5.Z = 40.11475186550837
+    TL6.E = 21.83973422589947
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36201452215704
+    TL7.Z = 20.00323158395102
+
+SP Optim1[1].SP1[178] <finalmaybe_lib:output_match:schematic>  optIter=178  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[178] <finalmaybe_lib:output_match:schematic>  optIter=178  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[178] <finalmaybe_lib:output_match:schematic>  optIter=178  freq=7.2 GHz
+
+Iteration/Trial #178:
+  CurrentEF: 9.93278639613311
+  Optimization variables:
+    R1.R = 29.33563203438721
+    TL1.E = 24.19344475395371
+    TL1.Z = 22.4501544686751
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.41969931365131
+    TL3.E = 114.2320814270863
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.5525409647438
+    TL5.E = 108.2970756443581
+    TL5.Z = 40.1147428838023
+    TL6.E = 21.83973422592827
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36193251947941
+    TL7.Z = 20.0032315846707
+
+SP Optim1[1].SP1[179] <finalmaybe_lib:output_match:schematic>  optIter=179  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[179] <finalmaybe_lib:output_match:schematic>  optIter=179  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[179] <finalmaybe_lib:output_match:schematic>  optIter=179  freq=7.2 GHz
+
+Iteration/Trial #179:
+  CurrentEF: 9.93278523545857
+  Optimization variables:
+    R1.R = 29.33563106255131
+    TL1.E = 24.19345823557415
+    TL1.Z = 22.45015446867559
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.64589630678954
+    TL3.E = 114.2320589861063
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.5525409647437
+    TL5.E = 108.2970189194037
+    TL5.Z = 40.11473591924646
+    TL6.E = 21.83973422594788
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36187678802611
+    TL7.Z = 20.00323158514152
+
+SP Optim1[1].SP1[180] <finalmaybe_lib:output_match:schematic>  optIter=180  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[180] <finalmaybe_lib:output_match:schematic>  optIter=180  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[180] <finalmaybe_lib:output_match:schematic>  optIter=180  freq=7.2 GHz
+
+Iteration/Trial #180:
+  CurrentEF: 9.93278488412196
+  Optimization variables:
+    R1.R = 29.33563090424495
+    TL1.E = 24.19344529460979
+    TL1.Z = 22.45015446867788
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.87435527013035
+    TL3.E = 114.2320508003666
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096474273
+    TL5.E = 108.2970161895198
+    TL5.Z = 40.1147342317838
+    TL6.E = 21.83973422595222
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36186446819926
+    TL7.Z = 20.0032315852281
+
+SP Optim1[1].SP1[181] <finalmaybe_lib:output_match:schematic>  optIter=181  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[181] <finalmaybe_lib:output_match:schematic>  optIter=181  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[181] <finalmaybe_lib:output_match:schematic>  optIter=181  freq=7.2 GHz
+
+Iteration/Trial #181:
+  CurrentEF: 9.93278469737515
+  Optimization variables:
+    R1.R = 29.33562274259658
+    TL1.E = 24.19321323793316
+    TL1.Z = 22.45015446874211
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.87435527468668
+    TL3.E = 114.2318341919565
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096471982
+    TL5.E = 108.2974505379987
+    TL5.Z = 40.11462048179458
+    TL6.E = 21.83973422610158
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36170539543819
+    TL7.Z = 20.00323158632356
+
+SP Optim1[1].SP1[182] <finalmaybe_lib:output_match:schematic>  optIter=182  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[182] <finalmaybe_lib:output_match:schematic>  optIter=182  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[182] <finalmaybe_lib:output_match:schematic>  optIter=182  freq=7.2 GHz
+
+Iteration/Trial #182:
+  CurrentEF: 9.93278466931819
+  Optimization variables:
+    R1.R = 29.33562830541819
+    TL1.E = 24.19322564815237
+    TL1.Z = 22.45015446871979
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.87435527520636
+    TL3.E = 114.2319510891024
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096472637
+    TL5.E = 108.2971776674985
+    TL5.Z = 40.11469274708054
+    TL6.E = 21.83973422600492
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36183703469325
+    TL7.Z = 20.00323158563673
+
+SP Optim1[1].SP1[183] <finalmaybe_lib:output_match:schematic>  optIter=183  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[183] <finalmaybe_lib:output_match:schematic>  optIter=183  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[183] <finalmaybe_lib:output_match:schematic>  optIter=183  freq=7.2 GHz
+
+Iteration/Trial #183:
+  CurrentEF: 9.93278456436395
+  Optimization variables:
+    R1.R = 29.33562789479272
+    TL1.E = 24.19322542450856
+    TL1.Z = 22.45015446872085
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.87435527524107
+    TL3.E = 114.2319394726504
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096472594
+    TL5.E = 108.2971699290555
+    TL5.Z = 40.1146895704559
+    TL6.E = 21.83973422601414
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.3618106919743
+    TL7.Z = 20.00323158584083
+
+SP Optim1[1].SP1[184] <finalmaybe_lib:output_match:schematic>  optIter=184  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[184] <finalmaybe_lib:output_match:schematic>  optIter=184  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[184] <finalmaybe_lib:output_match:schematic>  optIter=184  freq=7.2 GHz
+
+Iteration/Trial #184:
+  CurrentEF: 9.93278454078416
+  Optimization variables:
+    R1.R = 29.33562917277001
+    TL1.E = 24.19322610043411
+    TL1.Z = 22.45015446871613
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.87435527540041
+    TL3.E = 114.2319656538874
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096472729
+    TL5.E = 108.2971120773717
+    TL5.Z = 40.11470566964361
+    TL6.E = 21.83973422599173
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36184307298709
+    TL7.Z = 20.00323158565631
+
+SP Optim1[1].SP1[185] <finalmaybe_lib:output_match:schematic>  optIter=185  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[185] <finalmaybe_lib:output_match:schematic>  optIter=185  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[185] <finalmaybe_lib:output_match:schematic>  optIter=185  freq=7.2 GHz
+
+Iteration/Trial #185:
+  CurrentEF: 9.93278434353862
+  Optimization variables:
+    R1.R = 29.33565023279591
+    TL1.E = 24.19323675697384
+    TL1.Z = 22.45015446863695
+    TL2.E = 179.9843689366767
+    TL2.Z = 23.10509883111806
+    TL3.E = 114.2323870972727
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096474959
+    TL5.E = 108.2960724672249
+    TL5.Z = 40.11497756421674
+    TL6.E = 21.83973422562995
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.36229092227894
+    TL7.Z = 20.00323158309405
+
+SP Optim1[1].SP1[186] <finalmaybe_lib:output_match:schematic>  optIter=186  freq=2.4 GHz
+
+
+SP Optim1[1].SP2[186] <finalmaybe_lib:output_match:schematic>  optIter=186  freq=4.8 GHz
+
+
+SP Optim1[1].SP3[186] <finalmaybe_lib:output_match:schematic>  optIter=186  freq=7.2 GHz
+
+Iteration/Trial #186:
+  CurrentEF: 9.93278421621081
+  Optimization variables:
+    R1.R = 29.33564982250267
+    TL1.E = 24.19323891661729
+    TL1.Z = 22.45015446863771
+    TL2.E = 179.9843689366767
+    TL2.Z = 22.88010239022428
+    TL3.E = 114.2323776049089
+    TL4.E = 165.3517334952907
+    TL4.Z = 20.55254096474932
+    TL5.E = 108.2960688468057
+    TL5.Z = 40.11497424529234
+    TL6.E = 21.83973422563863
+    TL6.Z = 25.42152770525523
+    TL7.E = 28.3622661555
+    TL7.Z = 20.00323158327926
+Optim1[1] terminated due to no more improvement 
+
+SP SP4[1] <finalmaybe_lib:output_match:schematic>   freq=9.6 GHz
+
+
+Resource usage:
+  Total stopwatch time     =    84.41 seconds.
+

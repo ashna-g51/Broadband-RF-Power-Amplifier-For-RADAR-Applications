@@ -1,0 +1,2714 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Wed Nov 27 01:28:11 2024
+      Running on host: "LAPTOP-HAU1OUP2"
+      In Directory: "C:\Users\ashna\finalmaybe_wrk\data"
+      Process ID: 14040
+
+Warning detected by hpeesofsim in LinearCollapse '_2_' during analysis.
+    LinearCollapse is disabled because there is 'HB' analysis present.
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with no DC path to ground (topology corrected): 1
+
+
+OPTIM Optim1[1] <finalmaybe_lib:pa_with_opmatch:schematic>  optIter=(0->2500)
+Pt DC convergence is used.
+
+SP Optim1[1].SP1[0] <finalmaybe_lib:pa_with_opmatch:schematic>  optIter=0  freq=(2 GHz->3 GHz)
+
+
+HB Optim1[1].HB1[0] <finalmaybe_lib:pa_with_opmatch:schematic>
+    Number of tones:   1.
+    Number of frequencies:   6.
+    Number of time samples:  16.
+    Number of HB equations (problem size): 781.
+    Auto mode: on.
+    Convergence mode: Auto.
+    Linear solver: direct.
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	29.6371 A   	100.0             
+1.0*	29.6371 A   	  6.2	413.658 V    
+2.0*	28.6002 A   	 25.0	553.349 V    
+3.0*	51.2296 A   	  6.2	871.683 V    
+4.0*	42.4958 A   	  1.6	2.80969 kV   
+5.0*	41.8108 A   	  3.1	344.478 V    
+6.0*	40.5967 A   	  6.2	311.847 V    
+7.0*	38.6964 A   	  6.2	292.25 V     
+8.0*	38.0796 A   	  6.2	1.26631 kV   
+9.0*	36.4239 A   	 50.0	908.847 V    
+10.0*	1.52667 kA  	 25.0	998.19 V     
+    Switching to arc-length continuation...
+Fwd sourceLevel=5.81662e-03    0.58% 2/2  Step=0.5
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	776.747 uA  	100.0             
+1.0 	16.4131 nA  	100.0	34.6121 nV   
+    Arclength Newton-Raphson converged at 0.00581656 in 1 iters
+
+Fwd sourceLevel=14.0416e-03    1.40% 2/2  Step=0.7071067812
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.67697 mA  	100.0             
+1.0 	74.9599 nA  	100.0	144.249 nV   
+    Arclength Newton-Raphson converged at 0.0140402 in 1 iters
+
+Fwd sourceLevel=25.6663e-03    2.57% 2/2  Step=1
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	3.67889 mA  	100.0             
+1.0 	361.797 nA  	100.0	655.767 nV   
+    Arclength Newton-Raphson converged at 0.0256601 in 1 iters
+
+Fwd sourceLevel=42.0791e-03    4.21% 2/2  Step=1.414213562
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	8.19804 mA  	100.0             
+1.0 	1.99337 uA  	100.0	3.56786 uV   
+    Arclength Newton-Raphson converged at 0.0420586 in 1 iters
+
+Fwd sourceLevel=65.2085e-03    6.52% 2/2  Step=2
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	18.5817 mA  	100.0             
+1.0 	16.178 uA   	100.0	26.8707 uV   
+1.1 	19.8452 nA  	100.0	23.623 nV    
+    Arclength Newton-Raphson converged at 0.0651559 in 1 iters
+
+Fwd sourceLevel=97.7315e-03    9.77% 2/2  Step=2.828427125
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	46.0994 mA  	100.0             
+1.0 	219.596 uA  	100.0	343.678 uV   
+1.1 	1.39938 uA  	100.0	1.97357 uV   
+    Arclength Newton-Raphson converged at 0.0976814 in 1 iters
+
+Fwd sourceLevel=143.692e-03   14.37% 2/2  Step=4
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	162.149 mA  	100.0             
+1.0 	5.95569 mA  	100.0	10.7442 mV   
+1.1 	275.809 uA  	100.0	481.639 uV   
+1.2 	12.619 uA   	100.0	22.0896 uV   
+1.3 	570.321 nA  	100.0	999.036 nV   
+    Arclength Newton-Raphson converged at 0.144557 in 1 iters
+
+Fwd sourceLevel=212.462e-03   21.25% 2/2  Step=5.656854249
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.00736 A   	100.0             
+1.0 	68.6651 mA  	100.0	170.142 mV   
+1.1 	3.90542 mA  	100.0	7.84511 mV   
+1.2 	293.04 uA   	100.0	688.55 uV    
+1.3 	19.2164 uA  	100.0	44.3699 uV   
+1.4 	1.33081 uA  	100.0	3.21051 uV   
+    Arclength Newton-Raphson converged at 0.219891 in 1 iters
+
+Fwd sourceLevel=289.739e-03   28.97% 2/2  Step=8
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	449.922 mA  	100.0             
+1.0 	3.22839 mA  	100.0	2.42872 mV   
+1.1 	53.5754 uA  	100.0	38.5612 uV   
+1.2 	702.236 nA  	100.0	498.772 nV   
+    Arclength Newton-Raphson converged at 0.289015 in 1 iters
+
+Fwd sourceLevel=390.425e-03   39.04% 2/2  Step=11.3137085
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	609.548 mA  	100.0             
+1.0 	7.61879 mA  	100.0	5.22672 mV   
+1.1 	278.52 uA   	100.0	214.825 uV   
+1.2 	9.75685 uA  	100.0	7.63616 uV   
+    Arclength Newton-Raphson converged at 0.401472 in 1 iters
+
+Fwd sourceLevel=577.138e-03   57.71% 2/2  Step=16
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.86854 A   	100.0             
+1.0 	59.5918 mA  	100.0	104.393 mV   
+1.1 	6.27131 mA  	100.0	10.1182 mV   
+1.2 	626.696 uA  	100.0	1.00241 mV   
+1.3 	61.7412 uA  	100.0	99.3758 uV   
+1.4 	6.19082 uA  	100.0	9.83691 uV   
+    Arclength Newton-Raphson converged at 0.619715 in 1 iters
+
+Fwd sourceLevel=992.426e-03   99.24% 2/2  Step=22.627417
+    rejected
+
+Fwd sourceLevel=797.196e-03   79.72% 2/2  Step=10.77496048
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	2.68034 A   	100.0             
+1.0 	739.836 mA  	100.0	772.815 mV   
+1.1 	138.086 mA  	100.0	152.055 mV   
+1.2 	55.8041 mA  	100.0	60.8516 mV   
+1.3 	21.9548 mA  	100.0	24.0413 mV   
+1.4 	8.62247 mA  	100.0	9.47613 mV   
+1.5 	3.38169 mA  	100.0	3.72566 mV   
+1.6 	1.32113 mA  	100.0	1.45819 mV   
+1.7 	514.204 uA  	100.0	568.338 uV   
+1.8 	199.488 uA  	100.0	222.701 uV   
+1.9 	77.1883 uA  	100.0	87.1812 uV   
+1.10 	29.8037 uA  	100.0	33.9664 uV   
+1.11 	11.4886 uA  	100.0	13.1849 uV   
+    Arclength Newton-Raphson converged at 0.84378 in 1 iters
+
+Fwd sourceLevel=1.07113      107.11% 2/2  Step=10.77496048
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	2.54466 A   	100.0             
+1.0 	473.264 mA  	100.0	621.89 mV    
+1.1 	115.287 mA  	100.0	189.784 mV   
+1.2 	32.6255 mA  	100.0	61.9292 mV   
+1.3 	10.7278 mA  	100.0	20.909 mV    
+1.4 	3.81755 mA  	100.0	7.28772 mV   
+1.5 	1.40227 mA  	100.0	2.63056 mV   
+1.6 	524.339 uA  	100.0	979.842 uV   
+1.7 	201.074 uA  	100.0	373.969 uV   
+1.8 	78.0056 uA  	100.0	145.187 uV   
+1.9 	30.6464 uA  	100.0	56.9997 uV   
+1.10 	12.0913 uA  	100.0	22.534 uV    
+    Arclength Newton-Raphson converged at 1.08357 in 1 iters
+
+    Calculating solution at 1
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0 	555.531 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.1 	153.957 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.2 	58.046 mA   	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.3 	25.2976 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.4 	11.1677 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.5 	5.03586 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.6 	2.37347 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.7 	1.13807 mA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.8 	564.246 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.9 	286.091 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.10 	144.928 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.11 	73.2987 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.12 	37.0305 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.13 	18.6934 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.14 	9.43169 uA  	100.0             
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.15 	4.75694 uA  	100.0             
+    Newton-Raphson converged at 1
+
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+Iteration/Trial #0:
+  CurrentEF: 2
+  Optimization variables:
+    op_match_ideal.TL1.E = 97.9854
+    op_match_ideal.TL1.Z = 20.2305
+    op_match_ideal.TL2.E = 150.026
+    op_match_ideal.TL2.Z = 30.4748
+    op_match_ideal.TL3.E = 87.99250000000001
+    op_match_ideal.TL4.E = 102.054
+    op_match_ideal.TL4.Z = 29.7996
+    op_match_ideal.TL5.E = 147.674
+    op_match_ideal.TL5.Z = 64.15009999999999
+    op_match_ideal.TL6.E = 123.44
+    op_match_ideal.TL6.Z = 20
+    op_match_ideal.TL7.E = 42.9692
+    op_match_ideal.TL7.Z = 82.41670000000001
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	235.996 uA  	100.0             
+1.0 	348.311 pA  	100.0	436.404 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	264.688 uA  	100.0             
+1.0 	387.13 pA   	100.0	634.946 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	333.668 uA  	100.0             
+1.0 	303.705 pA  	100.0	159.835 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	277.379 uA  	100.0             
+1.0 	181.638 pA  	100.0	52.2015 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	271.72 uA   	100.0             
+1.0 	1.22967 nA  	100.0	2.15226 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	473.656 uA  	100.0             
+1.0 	891.018 pA  	100.0	1.67055 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	270.752 uA  	100.0             
+1.0 	741.008 pA  	100.0	1.69607 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	341.965 uA  	100.0             
+1.0 	559.853 pA  	100.0	993.253 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	276.523 uA  	100.0             
+1.0 	253.679 pA  	100.0	328.602 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	205.091 uA  	100.0             
+1.0 	355.669 pA  	100.0	335.309 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	144.535 uA  	100.0             
+1.0 	178.691 pA  	100.0	185.309 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	98.2597 uA  	100.0             
+1.0 	55.1164 pA  	100.0	11.994 pV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	36.8948 uA  	100.0             
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.689e-02       >       1.542e-05
+X2.Q1.vdi               5.689e-02       >       1.542e-05
+X2.Q1.X1.N__7           5.689e-02       >       1.542e-05
+X2.Q1.X1.vg1            3.484e-03       >       3.077e-06
+X2.Q1.X1.N__0           3.484e-03       >       3.077e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.689e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.542e-05 for this waveform.
+o A time-domain plot of the X2.Q1.dT waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	15.0301 A   	100.0             
+1.0 	374.261 mA  	100.0	817.607 mV   
+1.1 	11.4191 mA  	100.0	13.1765 mV   
+1.2 	1.99013 mA  	100.0	4.67037 mV   
+1.3 	171.543 uA  	100.0	305.641 uV   
+1.4 	29.5709 uA  	100.0	66.1519 uV   
+1.5 	4.5988 uA   	100.0	9.2724 uV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.973e-02       >       1.602e-05
+X2.Q1.vdi               3.973e-02       >       1.602e-05
+X2.Q1.X1.N__7           3.973e-02       >       1.602e-05
+X2.Q1.X1.vg1            3.183e-03       >       3.033e-06
+X2.Q1.X1.N__0           3.183e-03       >       3.033e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.973e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.602e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	25.6328 A   	100.0             
+1.0 	196.266 mA  	100.0	329.017 mV   
+1.1 	26.7695 mA  	100.0	75.4451 mV   
+1.2 	7.53442 mA  	100.0	20.4769 mV   
+1.3 	2.22812 mA  	100.0	5.95358 mV   
+1.4 	659.468 uA  	100.0	1.74598 mV   
+1.5 	193.651 uA  	100.0	508.827 uV   
+1.6 	56.2341 uA  	100.0	146.788 uV   
+1.7 	16.144 uA   	100.0	41.9078 uV   
+1.8 	4.5867 uA   	100.0	11.8521 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              2.657e-02       >       1.561e-05
+X2.Q1.vdi               2.657e-02       >       1.561e-05
+X2.Q1.X1.N__7           2.657e-02       >       1.561e-05
+X2.Q1.X1.vg1            3.037e-03       >       3.017e-06
+X2.Q1.X1.N__0           3.037e-03       >       3.017e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 2.657e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.561e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	26.9716 A   	100.0             
+1.0 	365.768 mA  	100.0	716.377 mV   
+1.1 	113.722 mA  	100.0	371.381 mV   
+1.2 	52.9314 mA  	100.0	170.261 mV   
+1.3 	25.237 mA   	100.0	83.4805 mV   
+1.4 	12.037 mA   	100.0	38.6818 mV   
+1.5 	5.64294 mA  	100.0	18.0587 mV   
+1.6 	2.62179 mA  	100.0	8.27627 mV   
+1.7 	1.20593 mA  	100.0	3.78631 mV   
+1.8 	551.487 uA  	100.0	1.72109 mV   
+1.9 	250.989 uA  	100.0	780.742 uV   
+1.10 	113.882 uA  	100.0	353.285 uV   
+1.11 	51.5555 uA  	100.0	159.666 uV   
+1.12 	23.3049 uA  	100.0	72.0841 uV   
+1.13 	10.5235 uA  	100.0	32.5233 uV   
+1.14 	4.74858 uA  	100.0	14.6671 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              4.155e-02       >       1.600e-05
+X2.Q1.vdi               4.155e-02       >       1.600e-05
+X2.Q1.X1.N__7           4.155e-02       >       1.600e-05
+X2.Q1.X1.vg1            3.232e-03       >       3.038e-06
+X2.Q1.X1.N__0           3.232e-03       >       3.038e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 4.155e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.600e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	15.2994 A   	100.0             
+1.0 	92.6336 mA  	100.0	149.011 mV   
+1.1 	6.61813 mA  	100.0	16.3532 mV   
+1.2 	1.02767 mA  	100.0	2.51938 mV   
+1.3 	182.654 uA  	100.0	435.995 uV   
+1.4 	33.1161 uA  	100.0	77.9876 uV   
+1.5 	5.97278 uA  	100.0	13.9193 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.241e-02       >       1.591e-05
+X2.Q1.vdi               3.241e-02       >       1.591e-05
+X2.Q1.X1.N__7           3.241e-02       >       1.591e-05
+X2.Q1.X1.vg1            3.028e-03       >       3.017e-06
+X2.Q1.X1.N__0           3.028e-03       >       3.017e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.241e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.591e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	7.24768 A   	100.0             
+1.0 	20.3881 mA  	100.0	35.2103 mV   
+1.1 	1.21471 mA  	100.0	3.50469 mV   
+1.2 	128.372 uA  	100.0	371.503 uV   
+1.3 	13.9851 uA  	100.0	40.3705 uV   
+1.4 	1.51079 uA  	100.0	4.30565 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.631e-02       >       1.601e-05
+X2.Q1.vdi               3.631e-02       >       1.601e-05
+X2.Q1.X1.N__7           3.631e-02       >       1.601e-05
+X2.Q1.X1.vg1            3.094e-03       >       3.024e-06
+X2.Q1.X1.N__0           3.094e-03       >       3.024e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.631e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.601e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.35256 A   	100.0             
+1.0 	737.08 uA   	100.0	1.17056 mV   
+1.1 	6.23834 uA  	100.0	16.4487 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.553e-02       >       1.600e-05
+X2.Q1.vdi               3.553e-02       >       1.600e-05
+X2.Q1.X1.N__7           3.553e-02       >       1.600e-05
+X2.Q1.X1.vg1            3.077e-03       >       3.023e-06
+X2.Q1.X1.N__0           3.077e-03       >       3.023e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.553e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.600e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.04682 A   	100.0             
+1.0 	418.136 uA  	100.0	673.253 uV   
+1.1 	2.90915 uA  	100.0	7.96133 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.495e-02       >       1.598e-05
+X2.Q1.vdi               3.495e-02       >       1.598e-05
+X2.Q1.X1.N__7           3.495e-02       >       1.598e-05
+X2.Q1.X1.vg1            3.065e-03       >       3.021e-06
+X2.Q1.X1.N__0           3.065e-03       >       3.021e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.495e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.598e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	557.689 mA  	100.0             
+1.0 	115.276 uA  	100.0	188.829 uV   
+1.1 	447.221 nA  	100.0	1.2508 uV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.464e-02       >       1.598e-05
+X2.Q1.vdi               3.464e-02       >       1.598e-05
+X2.Q1.X1.N__7           3.464e-02       >       1.598e-05
+X2.Q1.X1.vg1            3.059e-03       >       3.021e-06
+X2.Q1.X1.N__0           3.059e-03       >       3.021e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.464e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.598e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	469.044 mA  	100.0             
+1.0 	80.0971 uA  	100.0	132.972 uV   
+1.1 	268.348 nA  	100.0	759.779 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.439e-02       >       1.597e-05
+X2.Q1.vdi               3.439e-02       >       1.597e-05
+X2.Q1.X1.N__7           3.439e-02       >       1.597e-05
+X2.Q1.X1.vg1            3.055e-03       >       3.020e-06
+X2.Q1.X1.N__0           3.055e-03       >       3.020e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.439e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.597e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	334.9 mA    	100.0             
+1.0 	40.3391 uA  	100.0	67.7865 uV   
+1.1 	98.5848 nA  	100.0	281.867 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.421e-02       >       1.597e-05
+X2.Q1.vdi               3.421e-02       >       1.597e-05
+X2.Q1.X1.N__7           3.421e-02       >       1.597e-05
+X2.Q1.X1.vg1            3.052e-03       >       3.020e-06
+X2.Q1.X1.N__0           3.052e-03       >       3.020e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.421e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.597e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	282.256 mA  	100.0             
+1.0 	28.3964 uA  	100.0	48.1938 uV   
+1.1 	59.4938 nA  	100.0	171.095 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.406e-02       >       1.596e-05
+X2.Q1.vdi               3.406e-02       >       1.596e-05
+X2.Q1.X1.N__7           3.406e-02       >       1.596e-05
+X2.Q1.X1.vg1            3.049e-03       >       3.020e-06
+X2.Q1.X1.N__0           3.049e-03       >       3.020e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.406e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.596e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	227.569 mA  	100.0             
+1.0 	18.3323 uA  	100.0	31.3852 uV   
+1.1 	31.4402 nA  	100.0	90.7602 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.394e-02       >       1.596e-05
+X2.Q1.vdi               3.394e-02       >       1.596e-05
+X2.Q1.X1.N__7           3.394e-02       >       1.596e-05
+X2.Q1.X1.vg1            3.047e-03       >       3.020e-06
+X2.Q1.X1.N__0           3.047e-03       >       3.020e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.394e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.596e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	195.105 mA  	100.0             
+1.0 	13.4051 uA  	100.0	23.113 uV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.384e-02       >       1.595e-05
+X2.Q1.vdi               3.384e-02       >       1.595e-05
+X2.Q1.X1.N__7           3.384e-02       >       1.595e-05
+X2.Q1.X1.vg1            3.046e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.046e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.384e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.595e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	166.386 mA  	100.0             
+1.0 	9.71087 uA  	100.0	16.844 uV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.375e-02       >       1.595e-05
+X2.Q1.vdi               3.375e-02       >       1.595e-05
+X2.Q1.X1.N__7           3.375e-02       >       1.595e-05
+X2.Q1.X1.vg1            3.044e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.044e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.375e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.595e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	145.561 mA  	100.0             
+1.0 	7.40803 uA  	100.0	12.9177 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.368e-02       >       1.595e-05
+X2.Q1.vdi               3.368e-02       >       1.595e-05
+X2.Q1.X1.N__7           3.368e-02       >       1.595e-05
+X2.Q1.X1.vg1            3.043e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.043e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.368e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.595e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	127.948 mA  	100.0             
+1.0 	5.70815 uA  	100.0	10.0006 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.361e-02       >       1.595e-05
+X2.Q1.vdi               3.361e-02       >       1.595e-05
+X2.Q1.X1.N__7           3.361e-02       >       1.595e-05
+X2.Q1.X1.vg1            3.042e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.042e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.361e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.595e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	113.925 mA  	100.0             
+1.0 	4.51483 uA  	100.0	7.94363 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.355e-02       >       1.595e-05
+X2.Q1.vdi               3.355e-02       >       1.595e-05
+X2.Q1.X1.N__7           3.355e-02       >       1.595e-05
+X2.Q1.X1.vg1            3.041e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.041e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.355e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.595e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	102.069 mA  	100.0             
+1.0 	3.61675 uA  	100.0	6.38797 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.350e-02       >       1.594e-05
+X2.Q1.vdi               3.350e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.350e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.041e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.041e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.350e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	92.1756 mA  	100.0             
+1.0 	2.94437 uA  	100.0	5.21861 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.345e-02       >       1.594e-05
+X2.Q1.vdi               3.345e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.345e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.040e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.040e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.345e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	83.705 mA   	100.0             
+1.0 	2.42433 uA  	100.0	4.31061 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.341e-02       >       1.594e-05
+X2.Q1.vdi               3.341e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.341e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.039e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.039e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.341e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	76.4418 mA  	100.0             
+1.0 	2.0191 uA   	100.0	3.60059 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.337e-02       >       1.594e-05
+X2.Q1.vdi               3.337e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.337e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.039e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.039e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.337e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	70.1321 mA  	100.0             
+1.0 	1.69747 uA  	100.0	3.03519 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.333e-02       >       1.594e-05
+X2.Q1.vdi               3.333e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.333e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.038e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.038e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.333e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	64.623 mA   	100.0             
+1.0 	1.43971 uA  	100.0	2.58065 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.330e-02       >       1.594e-05
+X2.Q1.vdi               3.330e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.330e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.038e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.038e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.330e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	59.7734 mA  	100.0             
+1.0 	1.23054 uA  	100.0	2.21077 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.327e-02       >       1.594e-05
+X2.Q1.vdi               3.327e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.327e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.037e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.037e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.327e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	55.4814 mA  	100.0             
+1.0 	1.05923 uA  	100.0	1.90707 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.324e-02       >       1.594e-05
+X2.Q1.vdi               3.324e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.324e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.037e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.037e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.324e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	51.6602 mA  	100.0             
+1.0 	917.608 nA  	100.0	1.65539 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.322e-02       >       1.594e-05
+X2.Q1.vdi               3.322e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.322e-02       >       1.594e-05
+X2.Q1.X1.vg1            3.037e-03       >       3.019e-06
+X2.Q1.X1.N__0           3.037e-03       >       3.019e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.322e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	48.2419 mA  	100.0             
+1.0 	799.595 nA  	100.0	1.44519 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.319e-02       >       1.593e-05
+X2.Q1.vdi               3.319e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.319e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.319e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	45.1694 mA  	100.0             
+1.0 	700.501 nA  	100.0	1.26834 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.317e-02       >       1.593e-05
+X2.Q1.vdi               3.317e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.317e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.317e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	42.3964 mA  	100.0             
+1.0 	616.762 nA  	100.0	1.11853 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	315.274 pA  	100.0             
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	233.589 uA  	100.0             
+1.0 	79.5717 pA  	100.0	50.4142 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	262.598 uA  	100.0             
+1.0 	143.066 pA  	100.0	141.492 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	336.02 uA   	100.0             
+1.0 	171.984 pA  	100.0	204.823 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	274.154 uA  	100.0             
+1.0 	68.1931 pA  	100.0	62.8358 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	211.076 uA  	100.0             
+1.0 	189.414 pA  	100.0	309.477 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	422.317 uA  	100.0             
+1.0 	711.251 pA  	100.0	2.48706 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	289.161 uA  	100.0             
+1.0 	757.202 pA  	100.0	3.31627 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	361.072 uA  	100.0             
+1.0 	503.033 pA  	100.0	1.79329 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	284.382 uA  	100.0             
+1.0 	226.151 pA  	100.0	647.218 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	204.309 uA  	100.0             
+1.0 	492.394 pA  	100.0	727.145 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	137.459 uA  	100.0             
+1.0 	262.152 pA  	100.0	357.517 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	113.284 uA  	100.0             
+1.0 	85.3423 pA  	100.0	44.9507 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	47.7534 uA  	100.0             
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+SP Optim1[1].SP1[1] <finalmaybe_lib:pa_with_opmatch:schematic>  optIter=1  freq=(2 GHz->3 GHz)
+
+
+HB Optim1[1].HB1[1] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	41.2803 uA  	100.0             
+1.0 	91.1524 pA  	100.0	15.811 pV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.315e-02       >       1.593e-05
+X2.Q1.vdi               3.315e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.315e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.036e-03       >       3.018e-06
+X2.Q1.X1.N__0           3.036e-03       >       3.018e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.315e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+Iteration/Trial #1:
+  CurrentEF: 0.0856332781353256
+  Optimization variables:
+    op_match_ideal.TL1.E = 98.53951398931774
+    op_match_ideal.TL1.Z = 20.23322308244552
+    op_match_ideal.TL2.E = 150.6304877040151
+    op_match_ideal.TL2.Z = 30.44973832329628
+    op_match_ideal.TL3.E = 94.99602916075965
+    op_match_ideal.TL4.E = 103.3045677895068
+    op_match_ideal.TL4.Z = 29.69875299115311
+    op_match_ideal.TL5.E = 147.8267167595417
+    op_match_ideal.TL5.Z = 64.22119585764359
+    op_match_ideal.TL6.E = 123.0775948223189
+    op_match_ideal.TL6.Z = 20.00000000010742
+    op_match_ideal.TL7.E = 46.71677921491506
+    op_match_ideal.TL7.Z = 82.40253512568214
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	834.196 mA  	100.0             
+1.0 	3.01585 mA  	100.0	6.41404 mV   
+1.1 	18.1796 uA  	100.0	45.0614 uV   
+1.2 	315.507 nA  	100.0	973.792 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.348e-02       >       1.593e-05
+X2.Q1.vdi               3.348e-02       >       1.593e-05
+X2.Q1.X1.N__7           3.348e-02       >       1.593e-05
+X2.Q1.X1.vg1            3.020e-03       >       3.013e-06
+X2.Q1.X1.N__0           3.020e-03       >       3.013e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.348e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.593e-05 for this waveform.
+o A time-domain plot of the N__23 waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	1.6574 A    	100.0             
+1.0 	11.7468 mA  	100.0	25.2962 mV   
+1.1 	144.239 uA  	100.0	358.197 uV   
+1.2 	4.97453 uA  	100.0	15.7066 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.425e-02       >       1.592e-05
+X2.Q1.vdi               3.425e-02       >       1.592e-05
+X2.Q1.X1.N__7           3.425e-02       >       1.592e-05
+X2.Q1.X1.vg1            2.996e-03       >       3.002e-06
+X2.Q1.X1.N__0           2.996e-03       >       3.002e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.425e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.592e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	5.00128 A   	100.0             
+1.0 	96.5649 mA  	100.0	220.075 mV   
+1.1 	3.56754 mA  	100.0	9.08965 mV   
+1.2 	369.485 uA  	100.0	1.19908 mV   
+1.3 	50.6246 uA  	100.0	162.45 uV    
+1.4 	6.82191 uA  	100.0	21.403 uV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	15.0149 A   	100.0             
+1.0 	6.79588 A   	100.0	8.70062 V    
+1.1 	3.184 A     	100.0	4.2081 V     
+1.2 	1.00936 A   	100.0	1.50524 V    
+1.3 	293.948 mA  	100.0	509.501 mV   
+1.4 	63.4912 mA  	100.0	136.764 mV   
+1.5 	38.1653 mA  	100.0	59.0734 mV   
+1.6 	29.0145 mA  	100.0	28.6266 mV   
+1.7*	16.4944 mA  	100.0	9.46423 mV   
+2.0 	1.9401 uA   	100.0	3.63594 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              5.013e-02       >       1.606e-05
+X2.Q1.vdi               5.013e-02       >       1.606e-05
+X2.Q1.X1.N__7           5.013e-02       >       1.606e-05
+X2.Q1.X1.vg1            2.716e-03       >       2.911e-06
+X2.Q1.X1.N__0           2.716e-03       >       2.911e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 5.013e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.606e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	19.2164 A   	100.0             
+1.0 	5.33282 A   	100.0	3.43175 V    
+1.1 	1.63425 A   	100.0	940.944 mV   
+1.2 	554.827 mA  	100.0	369.33 mV    
+1.3 	185.167 mA  	100.0	134.256 mV   
+1.4 	61.2689 mA  	100.0	48.4716 mV   
+1.5 	20.0478 mA  	100.0	17.1151 mV   
+1.6 	6.50124 mA  	100.0	5.95285 mV   
+1.7 	2.09207 mA  	100.0	2.04031 mV   
+1.8 	664.439 uA  	100.0	689.951 uV   
+1.9 	208.056 uA  	100.0	230.334 uV   
+1.10 	64.1464 uA  	100.0	75.941 uV    
+1.11 	19.4312 uA  	100.0	24.7285 uV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	224.606 uA  	100.0             
+1.0 	83.4802 pA  	100.0	26.1514 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	258.054 uA  	100.0             
+1.0 	155.148 pA  	100.0	111.25 pV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	340.155 uA  	100.0             
+1.0 	241.59 pA   	100.0	360.215 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	278.892 uA  	100.0             
+1.0 	92.4988 pA  	100.0	143.943 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	190.59 uA   	100.0             
+1.0 	165.094 pA  	100.0	189.59 pV    
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	401.385 uA  	100.0             
+1.0 	557.877 pA  	100.0	2.02512 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	284.153 uA  	100.0             
+1.0 	730.526 pA  	100.0	2.97922 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	360.471 uA  	100.0             
+1.0 	492.935 pA  	100.0	1.63632 nV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	287.539 uA  	100.0             
+1.0 	261.383 pA  	100.0	586.886 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	198.007 uA  	100.0             
+1.0 	381.78 pA   	100.0	600.728 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	135.656 uA  	100.0             
+1.0 	156.421 pA  	100.0	292.023 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	110.241 uA  	100.0             
+1.0 	66.7727 pA  	100.0	34.2657 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	48.1923 uA  	100.0             
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+
+SP Optim1[1].SP1[2] <finalmaybe_lib:pa_with_opmatch:schematic>  optIter=2  freq=(2 GHz->3 GHz)
+
+
+HB Optim1[1].HB1[2] <finalmaybe_lib:pa_with_opmatch:schematic>
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	40.9158 uA  	100.0             
+1.0 	65.3487 pA  	100.0	13.7287 pV   
+An HB truncation error may be present.
+o The HB truncation error is due to using a finite order 
+  (number of harmonics) in the representation of the
+  circuit signals.
+
+Waveform                Trunc error             Tolerance
+---------------------------------------------------------
+X2.Q1.N__1              3.736e-02       >       1.594e-05
+X2.Q1.vdi               3.736e-02       >       1.594e-05
+X2.Q1.X1.N__7           3.736e-02       >       1.594e-05
+X2.Q1.X1.vg1            2.972e-03       >       2.974e-06
+X2.Q1.X1.N__0           2.972e-03       >       2.974e-06
+
+o Number of waveforms violating the HB truncation error check:
+        8 out of 10 waveforms.
+o Estimated max HB truncation error: 3.736e-02 @ waveform X2.Q1.N__1 .
+o The maximal HB truncation error estimate is greater than the 
+  achieved tolerance of 1.594e-05 for this waveform.
+o A time-domain plot of the X2.Q1.X1.SRC6.i waveform may show the error as 
+  Gibbs ripples.
+o To reduce the error, increase the order (number of harmonics) 
+  and re-simulate.
+Iteration/Trial #2:
+  CurrentEF: 0
+  Optimization variables:
+    op_match_ideal.TL1.E = 98.74715586624009
+    op_match_ideal.TL1.Z = 20.23252619834717
+    op_match_ideal.TL2.E = 150.584756229729
+    op_match_ideal.TL2.Z = 30.51453864339302
+    op_match_ideal.TL3.E = 95.34468794056126
+    op_match_ideal.TL4.E = 103.4919774832378
+    op_match_ideal.TL4.Z = 29.66625053386589
+    op_match_ideal.TL5.E = 147.7825431132833
+    op_match_ideal.TL5.Z = 64.23170366436163
+    op_match_ideal.TL6.E = 118.6376373763247
+    op_match_ideal.TL6.Z = 20.00000000000992
+    op_match_ideal.TL7.E = 46.26764669464541
+    op_match_ideal.TL7.Z = 82.40245530500938
+Optim1[1] reached the goals. 
+
+Resource usage:
+  Total stopwatch time     =    51.68 seconds.
+

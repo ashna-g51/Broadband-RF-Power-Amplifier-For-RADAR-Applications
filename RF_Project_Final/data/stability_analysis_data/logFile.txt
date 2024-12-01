@@ -1,0 +1,31 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Tue Nov 26 14:32:08 2024
+      Running on host: "LAPTOP-HAU1OUP2"
+      In Directory: "C:\Users\ashna\finalmaybe_wrk\data"
+      Process ID: 15180
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with no DC path to ground (topology corrected): 1
+
+Pt DC convergence is used.
+
+SP SP_NWA1.SP1[1] <finalmaybe_lib:stability_analysis:schematic>   freq=(500 MHz->6 GHz)
+
+Warning detected by hpeesofsim during circuit set up.
+    `X1.Q1': Unable to resolve variable(s) or functions(s) in expression ` Tj=dT'
+        dT
+Warning detected by hpeesofsim during circuit set up.
+    `X1.Q1': Unable to resolve variable(s) or functions(s) in expression `idi=id.i'
+        id.i
+Warning detected by hpeesofsim during circuit set up.
+    `X1.Q1': Unable to resolve variable(s) or functions(s) in expression `vdsi=vdi-X1.vd1g'
+        X1.vd1g
+        vdi
+
+Resource usage:
+  Total stopwatch time     =     0.87 seconds.
+
